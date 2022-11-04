@@ -1,0 +1,165 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,600,600i,700,700i%7CRoboto:400,400i,500,500i,700,700i);
+
+.container.gallery-container {
+  background-color: #fff;
+  color: #35373a;
+  min-height: 100vh;
+  padding: 30px 50px;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+}
+
+ul .profile-card {
+  position: relative;
+  width: 340px;
+  display: flex;
+  flex: 0 0 340px;
+  height: auto;
+  flex-direction: column;
+  margin: 30px auto;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 4px;
+  overflow: hidden;
+  background-position: center center;
+  background-size: cover;
+  text-align: center;
+  color: #303030;
+  transition: 0.3s;
+  /* box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px; */
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.front {
+  margin: 25px;
+}
+
+.front .picture {
+  display: block;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto auto 30px;
+  border: solid 2px rgba(2, 81, 151, 0.9);
+}
+
+h2.title {
+  font-size: 21px;
+  color: #4BAF33;
+  font-family: 'Heebo', sans-serif;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.position {
+  color: #bbbbbb;
+  margin: 15px auto;
+  font-size: 13px;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.back {
+  height: 100%;
+  position: absolute;
+  right: 0;
+  left: 0;
+  display: block;
+  transform: translateX(-350px);
+}
+
+.full-photo {
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 45%;
+  /* margin: 20px; */
+  display: block;
+  float: left;
+  box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+}
+
+.descriptionWrap {
+  padding: 20px;
+  height: 100%;
+  width: 55%;
+  position: absolute;
+  right: 0;
+  text-align: left;
+  font-family: 'Heebo', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.descriptionWrap h4 {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+.descriptionWrap p {
+  font-weight: 300;
+  margin-bottom: 25px;
+  color: #505050;
+}
+
+.contents {
+  background: white;
+  height: 100%;
+  width: 40%;
+  display: block;
+  float: right;
+}
+
+.profile-card:hover {
+  width: 460px !important;
+  flex: 0 0 460px;
+  border: solid 1px #4BAF33;
+}
+
+.profile-card:hover .front {
+  display: none;
+}
+
+.profile-card:hover .back {
+  transform: translateX(0px);
+  transition: 0.3s;
+}
+
+.box-info {
+  padding: 5px 8px;
+  display: inline-block;
+  width: max-content;
+  font-size: 10px;
+  font-weight: 400;
+  border-radius: 50px;
+  border: solid 1px #4BAF33;
+  margin: 10px 0;
+}
+
+.descriptionWrap a.link--arrowed {
+  color: #303030;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+a.link--arrowed span img {
+  width: 40px;
+  margin: 20px 0;
+}
+
+.descriptionWrap a.link--arrowed:hover {
+  color: #4BAF33;
+}

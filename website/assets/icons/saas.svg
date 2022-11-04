@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line 4 Copy + Line 4 Copy 6 + Line 4 Copy 2 + Line 4 Copy 3 + Line 4 Copy 4 Mask</title>
+    <defs>
+        <polygon id="path-1" points="25 0 50 50 0 50"></polygon>
+    </defs>
+    <g id="themed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="service-page--1" transform="translate(-306.000000, -1351.000000)">
+            <g id="Line-4-Copy-+-Line-4-Copy-6-+-Line-4-Copy-2-+-Line-4-Copy-3-+-Line-4-Copy-4-Mask" transform="translate(306.000000, 1351.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill-opacity="0" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <line x1="-17" y1="10.4903884" x2="32" y2="10.4903884" id="Line-4-Copy" stroke="#303030" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,6" mask="url(#mask-2)"></line>
+                <line x1="-12" y1="1.49038839" x2="37" y2="1.49038839" id="Line-4-Copy-7" stroke="#303030" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,6" mask="url(#mask-2)"></line>
+                <line x1="1" y1="19.4903884" x2="51" y2="19.4903884" id="Line-4-Copy-6" stroke="#303030" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,6" mask="url(#mask-2)"></line>
+                <line x1="0" y1="28.4903884" x2="50" y2="28.4903884" id="Line-4-Copy-2" stroke="#303030" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,6" mask="url(#mask-2)"></line>
+                <line x1="1" y1="37.4903884" x2="51" y2="37.4903884" id="Line-4-Copy-3" stroke="#303030" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,6" mask="url(#mask-2)"></line>
+                <line x1="1" y1="46.4903884" x2="51" y2="46.4903884" id="Line-4-Copy-4" stroke="#303030" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,6" mask="url(#mask-2)"></line>
+            </g>
+        </g>
+    </g>
+</svg>

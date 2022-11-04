@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Combined Shape Copy</title>
+    <defs>
+        <circle id="path-1" cx="25" cy="25" r="25"></circle>
+    </defs>
+    <g id="themed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="service-page--1" transform="translate(-1085.000000, -1351.000000)">
+            <g id="Combined-Shape-Copy" transform="translate(1085.000000, 1351.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill-opacity="0" fill="#D8D8D8" xlink:href="#path-1"></use>
+                <path d="M0,2.49038839 L50,2.49038839 M0,11.4903884 L50,11.4903884 M0,20.4903884 L50,20.4903884 M0,29.4903884 L50,29.4903884 M0,38.4903884 L50,38.4903884 M0,47.4903884 L50,47.4903884 M0,56.4903884 L50,56.4903884" stroke="#303030" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,5" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

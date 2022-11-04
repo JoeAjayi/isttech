@@ -1,0 +1,766 @@
+<!--
+****************** ************ **************************** ****************************** ************* **************** ************* *********
+||&&========= ========== ======================= ================== ====== ============= ============= ============= ==================== ********
+||                                                                                                                                          *****
+||  ███████ ████████        ██ ███    ██        ▄▓██████-███████▄         ,▄▄▓███████▓▄▄,        ╓▄ ██████ ██████                            ***
+||         ██               ██   ██   ██                ██                       ██                █                                         **
+||         ██               ██    ██  ██                ██                       ██                 ██                                       *
+||         ██               ██     ██ ██                ██                       ██                  ██████████ █                            **
+||         ██               ██      ████                ██                       ██                            ██                            ***
+||         ██               ██       ███                ██                       ██                            ██                            ****
+||  ████████████████        ██        ██        ▄▓███████████████▄               ██                █████└╙╓▄╙└███                            *****
+||                                                                                                                                           ******
+****██*******█ █*****█ █*█ ****** ****** ********* █*****█ ██*██****███**██ █*************█ █**************█ █**************█ ************* ********
+
+=========================================================
+* INITS WEBSITE - INDEXED
+=========================================================
+* Copyright  INITS LIMITED (https://www.initsng.com)
+* Coded by BLESSING AJALA | SOFTWARE ENGINEER 🤠
+========================================================
+
+-->
+<!DOCTYPE html>
+<html lang="en" data-textdirection="ltr">
+
+<head>
+    <!-- set the encoding of your site -->
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <!-- set the viewport width and initial-scale on mobile devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- set the HandheldFriendly -->
+    <meta name="HandheldFriendly" content="True">
+    <!-- set the Keyword -->
+    <meta name="keywords" content="INITS Limited - IT Company">
+
+    <meta name="description" content="INITS Limited is one of Africa’s leading software development and IT consulting company,
+    incorporated in 2009 with offices located in Nigeria, Nairobi and New York. We offer innovative custom-made software
+    development solutions, interactive designs, winsome web and mobile applications and stellar human resources that meet the needs of our diverse clientèle.">
+    <meta name="author" content="INITS Limited(http://initsng.com)">
+    <meta property="og:title" content="INITS LIMITED">
+    <meta property="og:description" content="INITS Limited is one of Africa’s leading software development and IT consulting company,
+    incorporated in 2009 with offices located in Nigeria, Nairobi and New York. We offer innovative custom-made software
+    development solutions, interactive designs, winsome web and mobile applications and stellar human resources that meet the needs of our diverse clientèle.">
+
+    <meta property="og:image" content="https://initsng.com/assets/img/logo/favicon.jpg">
+    <meta property="og:url" content="www.initsng.com">
+    <!-- include poppins google font cdn link -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,600,600i,700,700i%7CRoboto:400,400i,500,500i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;500;600;700;800&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+    <!-- set the page title -->
+    <title>INITS Limited | Privacy Policy</title> <!-- include the site bootstrap stylesheet -->
+    <link rel="stylesheet" href="website/css/bootstrap.css">
+    <link rel="stylesheet" href="website/css/bootstrap-float-label.css">
+    <!-- include the site Fontsicon stylesheet -->
+    <link rel="stylesheet" href="https://initsng.com/website/css/fontsicon.css">
+
+    <!-- include the site Plugins stylesheet -->
+    <link rel="stylesheet" href="https://initsng.com/website/css/plugins.css">
+    <link rel="stylesheet" href="website/css/jquery-ui.min.css">
+    <link rel="stylesheet" href="website/css/animate.css">
+    
+
+    <!-- include the site stylesheet -->
+    <link rel="stylesheet" href="website/css/all.css">
+    <link rel="stylesheet" href="website/css/style.css">
+    <link rel="stylesheet" href="website/css/main.css">
+    <link rel="stylesheet" href="website/css/colors.css">
+
+    <!-- include the site responsive stylesheet -->
+    <link rel="stylesheet" href="website/css/responsive.css">
+
+    <link href="assets/img/logo/favicon.jpg" type="image/x-icon" rel="icon" />
+    <link href="assets/img/logo/favicon.jpg" type="image/x-icon" rel="shortcut icon" />
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="website/assets/icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="website/assets/icons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="website/assets/icons/favicon-16x16.png" />
+    <link rel="mask-icon" href="website/assets/icons/safari-pinned-tab.svg" color="#5bbad5" />
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    
+</head>
+
+<body>
+<!-- pageWrapper -->
+<div id="pageWrapper">
+    <!-- pageHeader -->
+    <header id="pageHeader">
+        <!-- pageHeaderTopBar -->
+        <div class="pageHeaderTopBar bg-light d-none d-lg-block">
+            <div class="container clearfix position-relative">
+                <div class="row">
+                    <div class="col-3 col-lg-6 my-auto">
+                        <!-- topBarContactList -->
+                        <ul class="list-unstyled topBarContactList align-items-center mb-0 d-none d-md-flex">
+                            <li>
+                                <a href="tel:+234 708 067 2012">
+                                    <span class="d-none d-lg-inline">Phone: <a onclick="ga('send', 'event', { eventCategory: 'Contact', eventAction: 'Call', eventLabel: 'Mobile Button'});" href="tel:+234 708 067 2012">+234 708 067 2012</a></span>
+                                </a>
+                            </li>
+                            <li class="muted">|</li>
+
+                            <li>
+                                <a href="privacy-policy#">
+                                    <span class="d-none d-lg-inline">Email: <a href="mailto:info@initsng.com">info@initsng.com</a></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-9 col-lg-6 col-xs-12 my-auto d-flex justify-content-end position-static">
+
+                        <!-- socialLinksList -->
+
+
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="headerFixer">
+            <div class="bg-white">
+                <!-- pageHeaderHolder -->
+                <div class="container clearfix pageHeaderHolder">
+                    <!-- logo -->
+                    <div class="logo alignleft">
+                        <a href="index.html">
+                            <img src="website/assets/images/logo.png" alt="INITS Limited">
+                        </a>
+                    </div>
+                    <!-- pageNavHolder -->
+                    <div class="pageNavHolder alignright d-flex justify-content-end align-items-md-start">
+
+                        <!-- pageNav navbar -->
+                        <nav id="pageNav" class="navbar navbar-expand-lg order-lg-1">
+                            <!-- pageMainNavOpener -->
+                            <button class="navbar-toggler pageMainNavOpener" type="button" data-toggle="collapse" data-target="#pageMainNavCollapse" aria-controls="pageMainNavCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                            <!-- mainNavCollapse navbar collapse -->
+                            <div class="collapse navbar-collapse mainNavCollapse" id="pageMainNavCollapse">
+                                <!-- pageMainNavigation navbar nav -->
+                                <ul class="navbar-nav pageMainNavigation justify-content-md-end">
+
+                                    <li class="nav-item  dropdown">
+                                        <a style="cursor: not-allowed;" class="nav-link fwMedium text-capitalize" href="index.html">Home</a>
+
+                                    </li>
+                                    <li class="nav-item   dropdown">
+                                        <a  disabled class="nav-link fwMedium text-capitalize" href="about">About Us</a>
+
+                                    </li>
+                                    <li class="nav-item   dropdown">
+                                        <a class="nav-link fwMedium text-capitalize" href="index.html#services">Services</a>
+
+                                    </li>
+
+                                    <li class="nav-item  dropdown">
+                                        <a class="nav-link fwMedium text-capitalize" href="portfolio">Portfolio</a>
+
+                                    </li>
+
+                                                                            <li class="nav-item  dropdown">
+                                            <a class="nav-link fwMedium text-capitalize" href="career">Career</a>
+                                        </li>
+                                                                                                            <li class="nav-item ">
+                                        <a class="nav-btn fwMedium text-capitalize" href="contact">Contact</a>
+
+                                    </li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    
+    <main>
+        <!-- formBlock -->
+        <section>
+            <div class="contentBlock text-left">
+                <div class="container policySection">
+
+
+                    <div class="row">
+                        <div class="col-md-12 wow slideInLeft" data-wow-delay="0.5s">
+                            <header class="headingHead">
+                                <!-- blockH -->
+                                <h2 class="text-capitalize blockH hTitle mt-0">Privacy Policy</h2>
+                            </header>
+                        </div>
+
+                        <div class="col-md-12 mx-auto mt-3">
+                            <div class="contact-details contact-details-light text-left">
+                                <div class="policy card">
+                                    <div class="card-title">
+                                        <p class="mb-0 muted">Last Updated: December 9, 2021</p>
+
+                                    </div>
+
+                                    <div class="card-body">
+                                        <p>
+                                            This Privacy Policy help you understand the type of data we collect, the reasons we collect it,
+                                            and what we do with it. It also explains how you can retract/modify and control the data we collect,
+                                            how it will be used, and how to contact us on any questions or concerns. <br><br>
+
+                                            We are committed to safeguarding the privacy of the data you submit to us through our Website.
+                                            INITS Limited (“us”, “we”, or “our”) is the proprietor of http://initsng.com (hereinafter referred to as “Website”).<br><br>
+
+                                            This Policy is important and we hope that you take time to read it carefully before providing your personal data to us.
+                                            When you choose to use our Website, we will assume that you have read, understood and agree to the content of this Policy.
+                                        </p>
+
+                                        <div class="my-5">
+                                            <p class="title">Information Collection and Use</p>
+                                            <p>We collect several different types of information for various purposes to provide and improve our service to you.</p>
+                                        </div>
+
+                                        <div class="my-5">
+                                            <p class="title">Types of Data Collected</p>
+                                            <div class="mb-4">
+                                                <p class="subtitle">Personal Data</p>
+                                                <p class="mb-0">While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may
+                                                    include, but is
+                                                    not limited to:</p>
+                                                <ul class="my-4">
+                                                    <li>Email address and contact number</li>
+                                                    <li>First name, last name, company name</li>
+                                                    <li>Cookies and Usage Data</li>
+                                                </ul>
+                                                <p>We may use your Personal Data to contact you with newsletters, establish business relations and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us
+                                                    by following the unsubscribe link or the instructions provided in any email we send.</p>
+                                            </div>
+
+                                            <div class="mb-4">
+                                                <p class="subtitle">Usage Data</p>
+                                                <p>We may also collect information on how the website is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g., IP address), browser type, browser
+                                                    version, the pages of our Website that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
+                                            </div>
+
+                                            <div class="mb-4">
+                                                <p class="subtitle">Tracking & Cookies Data</p>
+                                                <p>We use cookies and similar tracking technologies to track the activity on our Website and we hold certain information.<br><br>
+                                                    Cookies are files with a small amount of data which may include an anonymous unique identifier.
+                                                    Cookies are sent to your browser from a website and stored on your device. Other tracking technologies are also used such as beacons,
+                                                    tags and scripts to collect and track information and to improve and analyze our Website.<br><br>
+                                                    You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Website.</p>
+                                            </div>
+                                            <!-- end of block -->
+                                        </div>
+
+                                        <div class="my-5">
+                                            <p class="title">Use of Data</p>
+                                            <p>INITS Limited uses the collected data for various purposes:</p>
+                                            <ul class="my-3">
+                                                <li>For follow up correspondence</li>
+                                                <li>To allow you participate in interactive features of our service when you choose to do so</li>
+                                                <li>To enable us respond to enquiries or complaints you may have about our services, website or job vacancies</li>
+                                                <li>To enable you participate in our selection process and allow us consider and analyse your application</li>
+                                                <li>To communicate with you in respect of the recruitment process</li>
+                                                <li>To provide relevant notifications and/or our email - newsletter/communications/updates relating to our business and jobs, which may be of interest to you.</li>
+                                                <li>To monitor the usage of our Website</li>
+                                                <li>In compliance with a legal obligation or governmental agency request</li>
+                                                <li>For the defence of our rights in legal or administrative proceedings</li>
+                                                <li>For our protection against legal liability</li>
+                                            </ul>
+                                            <!-- end of block -->
+                                        </div>
+
+                                        <div class="my-5">
+                                            <p class="title">Disclosing Data</p>
+                                            <p>Under certain circumstances, INITS Limited may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).</p>
+                                        </div>
+
+                                        <div class="my-5">
+                                            <p class="title">Data Storage</p>
+                                            <p>Your personal information is confined behind a secured technology platform that is accessible to ONLY a limited number of persons who have special access rights to the platform, and are required to keep the information provided strictly confidential.  We are making use of a secured framework and highly secured data storage. Data on the system is transmitted and received securely in an encrypted connection called HTTPS (Hypertext Transfer Protocol Secure). This enables us to have reasonable safeguards on administrative, technical, and security measures employed to protect your information.
+                                                <br><br>Our platform is hosted by a renowned cloud storage provider that offers additional safeguards such as firewalls. We also make efforts to limit access via passwords. The need for access is periodically reviewed.
+                                                <br><br>All these measures are intended to prevent the loss, misuse, or unauthorized access, disclosure, alteration, or destruction of the personal information you provide or information we collect through this website.
+                                            </p>
+                                        </div>
+
+                                        <div class="my-5">
+                                            <p class="title">Protection of Data</p>
+                                            <p>We take precautions to protect the security of your information. We have electronic and managerial procedures to help safeguard, prevent unauthorized access, maintain data security and correctly use data.
+                                                <br><br>
+                                                INITS Limited only provide information about services, news updates, and job opportunities on our website. We will never ask for credit/debit card details, banking details, or any sensitive information from you.
+
+                                                <!-- The security of your Data is important to us, but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your
+                                                Personal Data, we cannot guarantee its absolute security. However, we take reasonable, technical and organisational precautions to prevent loss, unauthorised access, disclosure, destruction, misuse or alteration of your
+                                                Data.-->
+                                                Below are the measures put in place to secure your personal information.
+
+                                            </p>
+                                        </div>
+
+                                        <div class="my-5">
+                                            <p class="title">Data Security</p>
+                                            <p>We implement and maintain appropriate safeguards in protecting personal data. We offer the use of a security server.
+                                                All actions and information are transmitted via Secure Socket Layer (SSL) technology and then encrypted only to be accessible by those authorized with special access rights on the system and are required to keep the information confidential.</p>
+                                        </div>
+
+                                        <div class="my-5">
+                                            <p class="title">Violation of Privacy Policy</p>
+                                            <p>We have put in place procedures to deal with any suspected personal data breach and will notify you of any personal data breach and let you know the steps we have taken to remedy the breach and the security measures we have applied to render your personal data unintelligible.
+                                                <br><br>
+                                                All suspected breach of personal data will be remedied within 1 (one) month from the date of the report of the breach.
+                                                If you know or suspect that a personal data breach has occurred, please contact us immediately.
+                                                <br><br>
+
+                                                We will not be responsible for any personal data breach which occurs as a result of:
+                                            <ul>
+                                                <li>An event which is beyond our control;</li>
+                                                <li>An act or threat of terrorism;</li>
+                                                <li>An act of God (such as, but not limited to fires, explosions, earthquakes, drought, tidal waves and floods) which compromises our data protection measures;</li>
+                                                <li>War, hostilities (whether war be declared or not), invasion, act of foreign enemies, mobilization, requisition, or embargo;</li>
+                                                <li>Rebellion, revolution, insurrection, or military or usurped power, or civil war which compromises  data protection measures;</li>
+                                                <li>The transfer of your personal data to a third party on your instructions; and</li>
+                                                <li>The use of your personal data by a third party designated by you.</li>
+                                            </ul>
+                                            </p>
+                                        </div>
+
+                                        <div class="my-5">
+                                            <p class="title">Retention of Data</p>
+                                            <p>INITS Limited will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal
+                                                obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes and enforce our legal agreements and policies.<br><br>
+                                                We will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our
+                                                Website, or we are legally obligated to retain this data for longer periods.</p>
+                                        </div>
+
+                                        <div class="my-5">
+                                            <p class="title">Your Data Protection Rights</p>
+                                            <div class="mb-4">
+                                                <p class="mb-0">INITS Limited aims to take reasonable steps to allow you to correct, amend, delete or limit the use of your Personal Data. If you wish to be informed about what Personal Data we hold about you and if you want
+                                                    it to be removed from our systems, please contact us.<br><br>
+                                                    In certain circumstances, you have the following data protection rights:</p>
+                                                <ul class="my-4">
+                                                    <li>
+                                                        <p class="subtitle">The right to access, update or delete the information we have on you:</p>
+                                                        <p>Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist
+                                                            you.</p>
+                                                    </li>
+                                                    <li>
+                                                        <p class="subtitle">The right of rectification:</p>
+                                                        <p>You have the right to have your information rectified if that information is inaccurate or incomplete.</p>
+                                                    </li>
+                                                    <li>
+                                                        <p class="subtitle">The right to object:</p>
+                                                        <p>You have the right to object to our processing of your Personal Data.</p>
+                                                    </li>
+                                                    <li>
+                                                        <p class="subtitle">The right of restriction:</p>
+                                                        <p>You have the right to request that we restrict the processing of your personal information.</p>
+                                                    </li>
+                                                    <li>
+                                                        <p class="subtitle">The right to data portability:</p>
+                                                        <p>You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.</p>
+                                                    </li>
+                                                    <li>
+                                                        <p class="subtitle">The right to withdraw consent:</p>
+                                                        <p>You also have the right to withdraw your consent at any time where INITS Limited relied on your consent to process your personal information.</p>
+                                                    </li>
+
+                                                </ul>
+                                                <p>Please note that we may ask you to verify your identity before responding to such requests. You can exercise any of their rights by sending such request to the Company via <b>dpo@initshq.com</b>.</p>
+                                            </div>
+                                            <!-- end of block -->
+                                        </div>
+
+                                        <div class="my-5">
+                                            <p class="title">Sensitive Information</p>
+                                            <p>DO NOT send or share with us any sensitive Personal Data (such as but not limited to your government-issued
+                                                or financial account numbers, debit/credit card details, information related to racial or ethnic origin, political opinions,
+                                                religion or other beliefs, health, genetic or biometric data, or criminal background.</p>
+                                        </div>
+
+                                        <div class="my-5">
+                                            <p class="title">Amendments</p>
+                                            <p>We may revise and update this Policy at any time, without notice. This revised Policy will be effective when posted/ published on the Website.
+                                                Accordingly, if you disagree with and do not want to accept this Policy, as these have been revised, you must discontinue to use our Website.</p>
+                                        </div>
+
+                                        <div class="my-5">
+                                            <p class="title">Governing Law</p>
+                                            <p>This Privacy Policy is made pursuant to the Nigeria Data Protection Regulation 2019. Where any provision of this Policy is deemed inconsistent
+                                                with the Regulation, such provision shall to the extent of its inconsistency, be subject to the overriding regulation.</p>
+                                        </div>
+
+                                        <div class="mt-5">
+                                            <p class="title">Our Contact Details</p>
+                                            <p>The head office of INITS Limited is situated at 16 Majaro Street, Onike, Lagos, Nigeria.
+                                                <br><br>
+                                                You can contact us by:
+                                            </p>
+                                            <ul>
+                                                <li><span class="subtitle">Post: </span>Using the postal address given above as well as the addresses published on the Website.</li>
+                                                <li><span class="subtitle">Telephone: </span>Using the contact number published on our Website.</li>
+                                                <li><span class="subtitle">Email: </span>Using the email address published on our Website.</li>
+                                                <li>Or via the contact forms on our Website.</li>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+
+                                    <div class="card-footer">
+                                        <button onclick="window.location = 'https://initsng.com/'">I Understand</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+    <div class="pageFooterAreaWrap position-relative text-center text-sm-left" data-parallax="scroll" data-image-src="images/footer-image.png">
+        <div class="position-relative pageFooterWrapHolder">
+            <div class="container">
+                <footer id="pageFooter" class="position-relative">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-12">
+                            <div class="logo">
+                                <a href="index.html">
+                                    <img src="website/assets/images/logo.png" alt="INITS Limited">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-9 col-md-12">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>OFFICIAL HOURS</h3>
+                                        <ul class="list-unstyled">
+                                            <li>09:00am | 05:00pm</li>
+                                            <li>Monday to Friday</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>Contact</h3>
+                                        <ul class="list-unstyled">
+                                            <li><a href="mailto:info@initsng.com">info@initsng.com</a></li>
+                                            <li><a onclick="ga('send', 'event', { eventCategory: 'Contact', eventAction: 'Call', eventLabel: 'Mobile Button'});" href="tel:+234 708 067 2012">+234 708 067 2012</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>Address</h3>
+                                        <ul class="list-unstyled">
+                                            <li>
+                                                <p>16 Majaro Street,
+                                                    <br> Onike - Yaba,
+                                                    <br> Lagos, Nigeria</p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>Quick Links</h3>
+                            
+                                        <ul class="list-unstyled">
+                                            <li><a href="faq">FAQ</a></li>
+                                            <li><a href="terms-and-conditions">Terms & Conditions</a></li>
+                                            <li><a href="privacy-policy">Privacy Policy</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </footer>
+            </div>
+            <hr class="separator">
+            <div class="container">
+                <div class="copyrightWrap">
+                    <p>Copyright &copy;2022 INITS, All Rights Reserved.</p>
+                </div>
+                <!-- compliance icon added -->
+                <div style="position:fixed;bottom:5px;right:0;padding:5px 60px 5px 15px; background:rgba(246, 246, 240, 0)">
+                    <img style="max-height:50px;"src="website/assets/images/NDPRlogo.png" alt="NDPR Audit Compliant 2022">
+                </div>
+                <!-- compliance icon end -->
+            </div>
+        </div>
+    </div>
+    <!-- pageFooterAreaWrap -->
+    <div class="modal fade" id="pwdChanged" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog mini" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title text-left">Update Password</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form class="pwdChange" id="pwdChange" action="https://initsng.com/applicant/change-password" method="post">
+                    <input type="hidden" name="_token" value="Suq7IjhFOr0aNFhj3ZCeInsbJyUr7PAZj7XqsmbJ">                    <div class="modal-body">
+                                                                                                                                <div class="row">
+                                <div class="col-md-12">
+                                    <span class="has-float-label">
+                                      <input type="password" id="cPWD" name="old_password" class="form-control" placeholder="&nbsp;" required />
+                                      <label for="cPWD">Current Password</label>
+                                    </span>
+                                    <small style="position: absolute; bottom: 10px; font-family: 'Roboto', sans-serif; font-size: 10px; font-weight: 300" id="oPASSErr" class="text-danger"></small>
+
+                                </div>
+                                <div class="col-md-12">
+                                    <span class="has-float-label">
+                                      <input type="password" id="nPWD" minlength="8" name="new_password" class="form-control" placeholder="&nbsp;" required />
+                                      <label for="nPWD">New Password</label>
+                                    </span>
+                                    <small style="position: absolute; bottom: 10px; font-family: 'Roboto', sans-serif; font-size: 10px; font-weight: 300" class="text-danger" id="nPASSErr"></small>
+
+                                </div>
+                                <div class="col-md-12">
+                                    <span class="has-float-label">
+                                      <input type="password" id="cnPWD" minlength="8" name="new_password_confirmation" class="form-control" placeholder="&nbsp;" required />
+                                      <label for="cnPWD">Confirm New Password</label>
+                                    </span>
+                                    <small style="position: absolute; bottom: 10px; font-family: 'Roboto', sans-serif; font-size: 10px; font-weight: 300" class="text-danger" id="cPASSErr"></small>
+
+                                </div>
+                            </div>
+
+                    </div>
+                    <div class="modal-footer p-auto">
+                        <button type="button" id="setNewPassBtn" class="btn-outline">Save Changes</button>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+
+    
+</div>
+<span id="back-top" class="text-center rounded-circle fas fa-angle-up"></span>
+<div id="loader" class="loader-holder">
+    <div class="block">
+        <div class="dot white"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+    </div>
+</div>
+</div>
+<!-- include jQuery library -->
+<script src="website/js/jquery.min.js"></script>
+<script src="website/js/popper.min.js"></script>
+
+<script src="website/js/jquery-3.3.1.min.js"></script>
+<!-- include Plugins JavaScript -->
+<script src="website/js/plugins.js"></script>
+<!-- include custom JavaScript -->
+<script src="website/js/jquery.main.js"></script>
+<script src="website/js/wow.min.js"></script>
+<script src="website/js/main.js"></script>
+<script src="website/js/datatables.min.js"></script>
+
+
+<script>
+    var old_pass_checker = false;
+    $('#setNewPassBtn').click(function(){
+        var old_pass = $('#cPWD').val();
+        var new_pass = $('#nPWD').val();
+        var new_pass_conf = $('#cnPWD').val();
+        old_pass_checker = true;
+        if(old_pass.length < 3) {
+            $('#oPASSErr').html('Please provide your current password.');
+            return old_pass_checker = false;
+        }
+        confirmOldPassword(old_pass);
+
+        $('#nPASSErr').html('');
+        $('#cPASSErr').html('');
+
+        if(new_pass.length < 8) {
+            $('#nPASSErr').html('Your new password must have at least 8 character.');
+            old_pass_checker = false;
+        }else if(new_pass !== new_pass_conf) {
+            $('#cPASSErr').html('The password confirmation does not match.');
+            old_pass_checker = false;
+
+        }
+        if(old_pass_checker == true){
+            return $('#pwdChange').submit();
+        }
+    });
+
+    function confirmOldPassword(password)
+    {
+        $.ajax({
+            url: "https://initsng.com/applicant/password-confirmation",
+            method: "POST",
+            dataType: 'json',
+            data: {password: password, _token: "Suq7IjhFOr0aNFhj3ZCeInsbJyUr7PAZj7XqsmbJ"}
+        }).done(function (result) {
+            let data = result.status;
+            console.log(data);
+            old_pass_checker = true;
+            $('#oPASSErr').html('');
+            if(data === false){
+                $('#oPASSErr').html('['+ password +'] does not match your current password.');
+                old_pass_checker = false;
+
+
+            }
+            return true;
+        }).fail(function (err) {
+            console.error(err);
+            return false;
+        });
+    }
+</script>
+<script>
+
+
+    $(document).ready(function() {
+
+
+
+        function offSetManager() {
+
+            var yOffset = 0;
+            var currYOffSet = window.pageYOffset;
+
+            if (yOffset < currYOffSet) {
+                myNavBar.add();
+            } else if (currYOffSet == yOffset) {
+                myNavBar.remove();
+            }
+        }
+        window.onscroll = function(e) {
+            offSetManager();
+        }
+        offSetManager();
+    });
+</script>
+
+
+<script>
+    $('#slick-slider').slick({
+        draggable: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        touchThreshold: 1000,
+        dots: false,
+        infinite: true,
+        arrows: false,
+        speed: 300,
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: true
+            }
+        },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+        ]
+    });
+    // Custom carousel nav
+    $('.carousel-prev').click(function() {
+        $(this).parent().find('#slick-slider').slick('slickPrev');
+    });
+
+    $('.carousel-next').click(function(e) {
+        e.preventDefault();
+        $(this).parent().find('#slick-slider').slick('slickNext');
+    });
+</script>
+<script>
+    $('#slick-slider-2').slick({
+        draggable: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        touchThreshold: 1000,
+        dots: false,
+        infinite: true,
+        arrows: false,
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: false
+            }
+        },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+        ]
+    });
+    // Custom carousel nav
+    $('.carousel-prev').click(function() {
+        $(this).parent().find('#slick-slider-2').slick('slickPrev');
+    });
+
+    $('.carousel-next').click(function(e) {
+        e.preventDefault();
+        $(this).parent().find('#slick-slider-2').slick('slickNext');
+    });
+    function returnBack(url)
+    {
+        window.location = url;
+    }
+</script>
+
+</body>
+
+
+
+
+</html>

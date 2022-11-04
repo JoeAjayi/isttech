@@ -1,0 +1,683 @@
+<!--
+****************** ************ **************************** ****************************** ************* **************** ************* *********
+||&&========= ========== ======================= ================== ====== ============= ============= ============= ==================== ********
+||                                                                                                                                          *****
+||  ███████ ████████        ██ ███    ██        ▄▓██████-███████▄         ,▄▄▓███████▓▄▄,        ╓▄ ██████ ██████                            ***
+||         ██               ██   ██   ██                ██                       ██                █                                         **
+||         ██               ██    ██  ██                ██                       ██                 ██                                       *
+||         ██               ██     ██ ██                ██                       ██                  ██████████ █                            **
+||         ██               ██      ████                ██                       ██                            ██                            ***
+||         ██               ██       ███                ██                       ██                            ██                            ****
+||  ████████████████        ██        ██        ▄▓███████████████▄               ██                █████└╙╓▄╙└███                            *****
+||                                                                                                                                           ******
+****██*******█ █*****█ █*█ ****** ****** ********* █*****█ ██*██****███**██ █*************█ █**************█ █**************█ ************* ********
+
+=========================================================
+* INITS WEBSITE - INDEXED
+=========================================================
+* Copyright  INITS LIMITED (https://www.initsng.com)
+* Coded by BLESSING AJALA | SOFTWARE ENGINEER 🤠
+========================================================
+
+-->
+<!DOCTYPE html>
+<html lang="en" data-textdirection="ltr">
+
+<head>
+    <!-- set the encoding of your site -->
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <!-- set the viewport width and initial-scale on mobile devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- set the HandheldFriendly -->
+    <meta name="HandheldFriendly" content="True">
+    <!-- set the Keyword -->
+    <meta name="keywords" content="INITS Limited - IT Company">
+
+    <meta name="description" content="INITS Limited is one of Africa’s leading software development and IT consulting company,
+    incorporated in 2009 with offices located in Nigeria, Nairobi and New York. We offer innovative custom-made software
+    development solutions, interactive designs, winsome web and mobile applications and stellar human resources that meet the needs of our diverse clientèle.">
+    <meta name="author" content="INITS Limited(http://initsng.com)">
+    <meta property="og:title" content="INITS LIMITED">
+    <meta property="og:description" content="INITS Limited is one of Africa’s leading software development and IT consulting company,
+    incorporated in 2009 with offices located in Nigeria, Nairobi and New York. We offer innovative custom-made software
+    development solutions, interactive designs, winsome web and mobile applications and stellar human resources that meet the needs of our diverse clientèle.">
+
+    <meta property="og:image" content="https://initsng.com/assets/img/logo/favicon.jpg">
+    <meta property="og:url" content="www.initsng.com">
+    <!-- include poppins google font cdn link -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,600,600i,700,700i%7CRoboto:400,400i,500,500i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;500;600;700;800&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+    <!-- set the page title -->
+    <title>INITS Limited | Job Description</title> <!-- include the site bootstrap stylesheet -->
+    <link rel="stylesheet" href="../website/css/bootstrap.css">
+    <link rel="stylesheet" href="../website/css/bootstrap-float-label.css">
+    <!-- include the site Fontsicon stylesheet -->
+    <link rel="stylesheet" href="https://initsng.com/website/css/fontsicon.css">
+
+    <!-- include the site Plugins stylesheet -->
+    <link rel="stylesheet" href="https://initsng.com/website/css/plugins.css">
+    <link rel="stylesheet" href="../website/css/jquery-ui.min.css">
+    <link rel="stylesheet" href="../website/css/animate.css">
+    
+
+    <!-- include the site stylesheet -->
+    <link rel="stylesheet" href="../website/css/all.css">
+    <link rel="stylesheet" href="../website/css/style.css">
+    <link rel="stylesheet" href="../website/css/main.css">
+    <link rel="stylesheet" href="../website/css/colors.css">
+
+    <!-- include the site responsive stylesheet -->
+    <link rel="stylesheet" href="../website/css/responsive.css">
+
+    <link href="../assets/img/logo/favicon.jpg" type="image/x-icon" rel="icon" />
+    <link href="../assets/img/logo/favicon.jpg" type="image/x-icon" rel="shortcut icon" />
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="../website/assets/icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="../website/assets/icons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="../website/assets/icons/favicon-16x16.png" />
+    <link rel="mask-icon" href="../website/assets/icons/safari-pinned-tab.svg" color="#5bbad5" />
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    
+</head>
+
+<body>
+<!-- pageWrapper -->
+<div id="pageWrapper">
+    <!-- pageHeader -->
+    <header id="pageHeader">
+        <!-- pageHeaderTopBar -->
+        <div class="pageHeaderTopBar bg-light d-none d-lg-block">
+            <div class="container clearfix position-relative">
+                <div class="row">
+                    <div class="col-3 col-lg-6 my-auto">
+                        <!-- topBarContactList -->
+                        <ul class="list-unstyled topBarContactList align-items-center mb-0 d-none d-md-flex">
+                            <li>
+                                <a href="tel:+234 708 067 2012">
+                                    <span class="d-none d-lg-inline">Phone: <a onclick="ga('send', 'event', { eventCategory: 'Contact', eventAction: 'Call', eventLabel: 'Mobile Button'});" href="tel:+234 708 067 2012">+234 708 067 2012</a></span>
+                                </a>
+                            </li>
+                            <li class="muted">|</li>
+
+                            <li>
+                                <a href="52#">
+                                    <span class="d-none d-lg-inline">Email: <a href="mailto:info@initsng.com">info@initsng.com</a></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-9 col-lg-6 col-xs-12 my-auto d-flex justify-content-end position-static">
+
+                        <!-- socialLinksList -->
+
+
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="headerFixer">
+            <div class="bg-white">
+                <!-- pageHeaderHolder -->
+                <div class="container clearfix pageHeaderHolder">
+                    <!-- logo -->
+                    <div class="logo alignleft">
+                        <a href="../index.html">
+                            <img src="../website/assets/images/logo.png" alt="INITS Limited">
+                        </a>
+                    </div>
+                    <!-- pageNavHolder -->
+                    <div class="pageNavHolder alignright d-flex justify-content-end align-items-md-start">
+
+                        <!-- pageNav navbar -->
+                        <nav id="pageNav" class="navbar navbar-expand-lg order-lg-1">
+                            <!-- pageMainNavOpener -->
+                            <button class="navbar-toggler pageMainNavOpener" type="button" data-toggle="collapse" data-target="#pageMainNavCollapse" aria-controls="pageMainNavCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                            <!-- mainNavCollapse navbar collapse -->
+                            <div class="collapse navbar-collapse mainNavCollapse" id="pageMainNavCollapse">
+                                <!-- pageMainNavigation navbar nav -->
+                                <ul class="navbar-nav pageMainNavigation justify-content-md-end">
+
+                                    <li class="nav-item  dropdown">
+                                        <a style="cursor: not-allowed;" class="nav-link fwMedium text-capitalize" href="../index.html">Home</a>
+
+                                    </li>
+                                    <li class="nav-item   dropdown">
+                                        <a  disabled class="nav-link fwMedium text-capitalize" href="../about">About Us</a>
+
+                                    </li>
+                                    <li class="nav-item   dropdown">
+                                        <a class="nav-link fwMedium text-capitalize" href="../index.html#services">Services</a>
+
+                                    </li>
+
+                                    <li class="nav-item  dropdown">
+                                        <a class="nav-link fwMedium text-capitalize" href="../portfolio">Portfolio</a>
+
+                                    </li>
+
+                                                                            <li class="nav-item active dropdown">
+                                            <a class="nav-link fwMedium text-capitalize" href="../career">Career</a>
+                                        </li>
+                                                                                                            <li class="nav-item ">
+                                        <a class="nav-btn fwMedium text-capitalize" href="../contact">Contact</a>
+
+                                    </li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    
+
+    <main>
+
+        <section class="w-100 imageHeader contentBlock1 ">
+            <!-- banner -->
+            <header class="container">
+                <div class="row">
+                    <div class="col-md-6 my-auto">
+                        <div class="imageHeaderText">
+                            <h1>Quality Assurance</h1>
+                            <p>Position: <i>Senior</i></p>
+                            <div class="row">
+                                <div class="col-md-6 jobDets">
+                                    <p>Closing Date</p>
+                                    <h4>8th Nov, 2022 </h4>
+                                </div>
+                                <div class="col-md-6 jobDets">
+                                    <p>Location</p>
+                                    <h4>Lagos, Nigeria</h4>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="mt-5">
+                                                        <a class="link link--arrowed" href="../careerForm@career=52">
+                              <span class="mr-3">
+                                <img class="wow tada" data-wow-iteration="infinite" data-wow-duration="1s" src="../website/assets/icons/rightArrow-wht.svg" alt="">
+                              </span>Apply Now
+                            </a>
+                                                    </div>
+                    </div>
+                    <div class="col-md-6 my-auto d-none d-md-block">
+                        <div class="row">
+                            <div class="col-md-11 my-auto ml-auto mr-0">
+                                <div class="h-100 d-flex">
+                                    <img src="https://initsng.com/website/assets/career-img/q4.webp" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+        </section>
+
+        <div class="contentBlock4servicesBlock text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="prjTimeDesc">
+                            <p class="muted">Job Type</p>
+                            <h5>Contract (Remote)</h5>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="prjTimeDesc">
+                            <p class="muted">Experience Level</p>
+                            <h5>Senior</h5>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="prjTimeDesc">
+                            <p class="muted">Years of Experience</p>
+                            <h5>6+ Years</h5>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="prjTimeDesc">
+                            <p class="muted">Salary Range</p>
+                                                        <h5>
+                                <span class="">₦ 700,000.00</span>
+                                                                    -
+                                    <span class="">
+                                       ₦ 1,000,000.00
+                                    </span>
+                                                            </h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- What we offer -->
+        <section>
+            <div class="contentBlock servicesBlock text-center">
+                <div class="container mb-4">
+                    <div class="row">
+                        <div class="col-md-7 wow slideInLeft pr-5">
+                            <div class="headingHead text-left">
+                                <h2 class="text-capitalize blockH mTitle">Job Description</h2>
+                                <p>
+                                    <ul>
+<li>Create quality measurements to track improvement in products</li>
+<li>Execute quality improvement testing and activities</li>
+<li>Develop quality assurance standards and company processes</li>
+<li>Adhere to industry quality and safety standards</li>
+<li>Ensure products meet customer expectations and demand</li>
+<li>Create reports documenting errors and issues for fixing</li>
+<li>Work closely with the development team to improve existing products</li>
+<li>Maintain standards for reliability and performance of production</li>
+</ul>
+                                </p>
+                            </div>
+
+                            <!-- <div class="headingHead text-left">
+                              <h2 class="text-capitalize blockH mTitle">Experience Level</h2>
+                              <p>Mid Level</p>
+                            </div> -->
+
+                            <div class="headingHead text-left">
+                                <h2 class="text-capitalize blockH mTitle">Responsibilities</h2>
+                                <p>
+                                                                        <ul>
+<li>Create quality measurements to track improvement in products</li>
+<li>Execute quality improvement testing and activities</li>
+<li>Develop quality assurance standards and company processes</li>
+<li>Adhere to industry quality and safety standards</li>
+<li>Ensure products meet customer expectations and demand</li>
+<li>Create reports documenting errors and issues for fixing</li>
+<li>Work closely with the development team to improve existing products</li>
+<li>Maintain standards for reliability and performance of production</li>
+</ul>
+                                                                    </p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-1 p-0 d-md-none d-lg-block">&nbsp;</div>
+                        <div class="col-md-4 ">
+                            <div class="headingHead text-left wow slideInRight">
+                                <h2 class="text-capitalize blockH mTitle">Skills Required</h2>
+                                                                    <div class="servicesList text-left">
+                                                                                    <ul>
+                                                                                            <li>Postman</li>
+                                                                                            <li>Jenkins</li>
+                                                                                            <li>Selenium</li>
+                                                                                            <li>Appium</li>
+                                                                                    </ul>
+
+
+                                    </div>
+                                                            </div>
+                        </div>
+                                                    <div class="col-md-12 col-quote mt-0 pt-3 text-left wow slideInLeft my-4">
+                            <a class="link link--arrowed" href="../careerForm@career=52">
+                                <img class="wow pulse mr-2" data-wow-iteration="infinite" data-wow-duration="1s" src="../website/assets/icons/arrowRightGreen.svg" alt="">
+                                Apply Now</a>
+                        </div>
+
+                        
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+
+    </main>
+    <div class="pageFooterAreaWrap position-relative text-center text-sm-left" data-parallax="scroll" data-image-src="images/footer-image.png">
+        <div class="position-relative pageFooterWrapHolder">
+            <div class="container">
+                <footer id="pageFooter" class="position-relative">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-12">
+                            <div class="logo">
+                                <a href="../index.html">
+                                    <img src="../website/assets/images/logo.png" alt="INITS Limited">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-9 col-md-12">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>OFFICIAL HOURS</h3>
+                                        <ul class="list-unstyled">
+                                            <li>09:00am | 05:00pm</li>
+                                            <li>Monday to Friday</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>Contact</h3>
+                                        <ul class="list-unstyled">
+                                            <li><a href="mailto:info@initsng.com">info@initsng.com</a></li>
+                                            <li><a onclick="ga('send', 'event', { eventCategory: 'Contact', eventAction: 'Call', eventLabel: 'Mobile Button'});" href="tel:+234 708 067 2012">+234 708 067 2012</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>Address</h3>
+                                        <ul class="list-unstyled">
+                                            <li>
+                                                <p>16 Majaro Street,
+                                                    <br> Onike - Yaba,
+                                                    <br> Lagos, Nigeria</p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>Quick Links</h3>
+                            
+                                        <ul class="list-unstyled">
+                                            <li><a href="../faq">FAQ</a></li>
+                                            <li><a href="../terms-and-conditions">Terms & Conditions</a></li>
+                                            <li><a href="../privacy-policy">Privacy Policy</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </footer>
+            </div>
+            <hr class="separator">
+            <div class="container">
+                <div class="copyrightWrap">
+                    <p>Copyright &copy;2022 INITS, All Rights Reserved.</p>
+                </div>
+                <!-- compliance icon added -->
+                <div style="position:fixed;bottom:5px;right:0;padding:5px 60px 5px 15px; background:rgba(246, 246, 240, 0)">
+                    <img style="max-height:50px;"src="../website/assets/images/NDPRlogo.png" alt="NDPR Audit Compliant 2022">
+                </div>
+                <!-- compliance icon end -->
+            </div>
+        </div>
+    </div>
+    <!-- pageFooterAreaWrap -->
+    <div class="modal fade" id="pwdChanged" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog mini" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title text-left">Update Password</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form class="pwdChange" id="pwdChange" action="https://initsng.com/applicant/change-password" method="post">
+                    <input type="hidden" name="_token" value="Suq7IjhFOr0aNFhj3ZCeInsbJyUr7PAZj7XqsmbJ">                    <div class="modal-body">
+                                                                                                                                <div class="row">
+                                <div class="col-md-12">
+                                    <span class="has-float-label">
+                                      <input type="password" id="cPWD" name="old_password" class="form-control" placeholder="&nbsp;" required />
+                                      <label for="cPWD">Current Password</label>
+                                    </span>
+                                    <small style="position: absolute; bottom: 10px; font-family: 'Roboto', sans-serif; font-size: 10px; font-weight: 300" id="oPASSErr" class="text-danger"></small>
+
+                                </div>
+                                <div class="col-md-12">
+                                    <span class="has-float-label">
+                                      <input type="password" id="nPWD" minlength="8" name="new_password" class="form-control" placeholder="&nbsp;" required />
+                                      <label for="nPWD">New Password</label>
+                                    </span>
+                                    <small style="position: absolute; bottom: 10px; font-family: 'Roboto', sans-serif; font-size: 10px; font-weight: 300" class="text-danger" id="nPASSErr"></small>
+
+                                </div>
+                                <div class="col-md-12">
+                                    <span class="has-float-label">
+                                      <input type="password" id="cnPWD" minlength="8" name="new_password_confirmation" class="form-control" placeholder="&nbsp;" required />
+                                      <label for="cnPWD">Confirm New Password</label>
+                                    </span>
+                                    <small style="position: absolute; bottom: 10px; font-family: 'Roboto', sans-serif; font-size: 10px; font-weight: 300" class="text-danger" id="cPASSErr"></small>
+
+                                </div>
+                            </div>
+
+                    </div>
+                    <div class="modal-footer p-auto">
+                        <button type="button" id="setNewPassBtn" class="btn-outline">Save Changes</button>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+
+    
+</div>
+<span id="back-top" class="text-center rounded-circle fas fa-angle-up"></span>
+<div id="loader" class="loader-holder">
+    <div class="block">
+        <div class="dot white"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+    </div>
+</div>
+</div>
+<!-- include jQuery library -->
+<script src="../website/js/jquery.min.js"></script>
+<script src="../website/js/popper.min.js"></script>
+
+<script src="../website/js/jquery-3.3.1.min.js"></script>
+<!-- include Plugins JavaScript -->
+<script src="../website/js/plugins.js"></script>
+<!-- include custom JavaScript -->
+<script src="../website/js/jquery.main.js"></script>
+<script src="../website/js/wow.min.js"></script>
+<script src="../website/js/main.js"></script>
+<script src="../website/js/datatables.min.js"></script>
+
+
+<script>
+    var old_pass_checker = false;
+    $('#setNewPassBtn').click(function(){
+        var old_pass = $('#cPWD').val();
+        var new_pass = $('#nPWD').val();
+        var new_pass_conf = $('#cnPWD').val();
+        old_pass_checker = true;
+        if(old_pass.length < 3) {
+            $('#oPASSErr').html('Please provide your current password.');
+            return old_pass_checker = false;
+        }
+        confirmOldPassword(old_pass);
+
+        $('#nPASSErr').html('');
+        $('#cPASSErr').html('');
+
+        if(new_pass.length < 8) {
+            $('#nPASSErr').html('Your new password must have at least 8 character.');
+            old_pass_checker = false;
+        }else if(new_pass !== new_pass_conf) {
+            $('#cPASSErr').html('The password confirmation does not match.');
+            old_pass_checker = false;
+
+        }
+        if(old_pass_checker == true){
+            return $('#pwdChange').submit();
+        }
+    });
+
+    function confirmOldPassword(password)
+    {
+        $.ajax({
+            url: "https://initsng.com/applicant/password-confirmation",
+            method: "POST",
+            dataType: 'json',
+            data: {password: password, _token: "Suq7IjhFOr0aNFhj3ZCeInsbJyUr7PAZj7XqsmbJ"}
+        }).done(function (result) {
+            let data = result.status;
+            console.log(data);
+            old_pass_checker = true;
+            $('#oPASSErr').html('');
+            if(data === false){
+                $('#oPASSErr').html('['+ password +'] does not match your current password.');
+                old_pass_checker = false;
+
+
+            }
+            return true;
+        }).fail(function (err) {
+            console.error(err);
+            return false;
+        });
+    }
+</script>
+<script>
+
+
+    $(document).ready(function() {
+
+
+
+        function offSetManager() {
+
+            var yOffset = 0;
+            var currYOffSet = window.pageYOffset;
+
+            if (yOffset < currYOffSet) {
+                myNavBar.add();
+            } else if (currYOffSet == yOffset) {
+                myNavBar.remove();
+            }
+        }
+        window.onscroll = function(e) {
+            offSetManager();
+        }
+        offSetManager();
+    });
+</script>
+
+
+<script>
+    $('#slick-slider').slick({
+        draggable: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        touchThreshold: 1000,
+        dots: false,
+        infinite: true,
+        arrows: false,
+        speed: 300,
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: true
+            }
+        },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+        ]
+    });
+    // Custom carousel nav
+    $('.carousel-prev').click(function() {
+        $(this).parent().find('#slick-slider').slick('slickPrev');
+    });
+
+    $('.carousel-next').click(function(e) {
+        e.preventDefault();
+        $(this).parent().find('#slick-slider').slick('slickNext');
+    });
+</script>
+<script>
+    $('#slick-slider-2').slick({
+        draggable: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        touchThreshold: 1000,
+        dots: false,
+        infinite: true,
+        arrows: false,
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: false
+            }
+        },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+        ]
+    });
+    // Custom carousel nav
+    $('.carousel-prev').click(function() {
+        $(this).parent().find('#slick-slider-2').slick('slickPrev');
+    });
+
+    $('.carousel-next').click(function(e) {
+        e.preventDefault();
+        $(this).parent().find('#slick-slider-2').slick('slickNext');
+    });
+    function returnBack(url)
+    {
+        window.location = url;
+    }
+</script>
+
+</body>
+
+
+
+
+</html>

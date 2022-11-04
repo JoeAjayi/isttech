@@ -1,0 +1,677 @@
+<!--
+****************** ************ **************************** ****************************** ************* **************** ************* *********
+||&&========= ========== ======================= ================== ====== ============= ============= ============= ==================== ********
+||                                                                                                                                          *****
+||  ███████ ████████        ██ ███    ██        ▄▓██████-███████▄         ,▄▄▓███████▓▄▄,        ╓▄ ██████ ██████                            ***
+||         ██               ██   ██   ██                ██                       ██                █                                         **
+||         ██               ██    ██  ██                ██                       ██                 ██                                       *
+||         ██               ██     ██ ██                ██                       ██                  ██████████ █                            **
+||         ██               ██      ████                ██                       ██                            ██                            ***
+||         ██               ██       ███                ██                       ██                            ██                            ****
+||  ████████████████        ██        ██        ▄▓███████████████▄               ██                █████└╙╓▄╙└███                            *****
+||                                                                                                                                           ******
+****██*******█ █*****█ █*█ ****** ****** ********* █*****█ ██*██****███**██ █*************█ █**************█ █**************█ ************* ********
+
+=========================================================
+* INITS WEBSITE - INDEXED
+=========================================================
+* Copyright  INITS LIMITED (https://www.initsng.com)
+* Coded by BLESSING AJALA | SOFTWARE ENGINEER 🤠
+========================================================
+
+-->
+<!DOCTYPE html>
+<html lang="en" data-textdirection="ltr">
+
+<head>
+    <!-- set the encoding of your site -->
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <!-- set the viewport width and initial-scale on mobile devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- set the HandheldFriendly -->
+    <meta name="HandheldFriendly" content="True">
+    <!-- set the Keyword -->
+    <meta name="keywords" content="INITS Limited - IT Company">
+
+    <meta name="description" content="INITS Limited is one of Africa’s leading software development and IT consulting company,
+    incorporated in 2009 with offices located in Nigeria, Nairobi and New York. We offer innovative custom-made software
+    development solutions, interactive designs, winsome web and mobile applications and stellar human resources that meet the needs of our diverse clientèle.">
+    <meta name="author" content="INITS Limited(http://initsng.com)">
+    <meta property="og:title" content="INITS LIMITED">
+    <meta property="og:description" content="INITS Limited is one of Africa’s leading software development and IT consulting company,
+    incorporated in 2009 with offices located in Nigeria, Nairobi and New York. We offer innovative custom-made software
+    development solutions, interactive designs, winsome web and mobile applications and stellar human resources that meet the needs of our diverse clientèle.">
+
+    <meta property="og:image" content="https://initsng.com/assets/img/logo/favicon.jpg">
+    <meta property="og:url" content="www.initsng.com">
+    <!-- include poppins google font cdn link -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,600,600i,700,700i%7CRoboto:400,400i,500,500i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;500;600;700;800&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+    <!-- set the page title -->
+    <title>INITS Limited | Terms &amp; Conditions</title> <!-- include the site bootstrap stylesheet -->
+    <link rel="stylesheet" href="website/css/bootstrap.css">
+    <link rel="stylesheet" href="website/css/bootstrap-float-label.css">
+    <!-- include the site Fontsicon stylesheet -->
+    <link rel="stylesheet" href="https://initsng.com/website/css/fontsicon.css">
+
+    <!-- include the site Plugins stylesheet -->
+    <link rel="stylesheet" href="https://initsng.com/website/css/plugins.css">
+    <link rel="stylesheet" href="website/css/jquery-ui.min.css">
+    <link rel="stylesheet" href="website/css/animate.css">
+    
+
+    <!-- include the site stylesheet -->
+    <link rel="stylesheet" href="website/css/all.css">
+    <link rel="stylesheet" href="website/css/style.css">
+    <link rel="stylesheet" href="website/css/main.css">
+    <link rel="stylesheet" href="website/css/colors.css">
+
+    <!-- include the site responsive stylesheet -->
+    <link rel="stylesheet" href="website/css/responsive.css">
+
+    <link href="assets/img/logo/favicon.jpg" type="image/x-icon" rel="icon" />
+    <link href="assets/img/logo/favicon.jpg" type="image/x-icon" rel="shortcut icon" />
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="website/assets/icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="website/assets/icons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="website/assets/icons/favicon-16x16.png" />
+    <link rel="mask-icon" href="website/assets/icons/safari-pinned-tab.svg" color="#5bbad5" />
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    
+</head>
+
+<body>
+<!-- pageWrapper -->
+<div id="pageWrapper">
+    <!-- pageHeader -->
+    <header id="pageHeader">
+        <!-- pageHeaderTopBar -->
+        <div class="pageHeaderTopBar bg-light d-none d-lg-block">
+            <div class="container clearfix position-relative">
+                <div class="row">
+                    <div class="col-3 col-lg-6 my-auto">
+                        <!-- topBarContactList -->
+                        <ul class="list-unstyled topBarContactList align-items-center mb-0 d-none d-md-flex">
+                            <li>
+                                <a href="tel:+234 708 067 2012">
+                                    <span class="d-none d-lg-inline">Phone: <a onclick="ga('send', 'event', { eventCategory: 'Contact', eventAction: 'Call', eventLabel: 'Mobile Button'});" href="tel:+234 708 067 2012">+234 708 067 2012</a></span>
+                                </a>
+                            </li>
+                            <li class="muted">|</li>
+
+                            <li>
+                                <a href="terms-and-conditions#">
+                                    <span class="d-none d-lg-inline">Email: <a href="mailto:info@initsng.com">info@initsng.com</a></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-9 col-lg-6 col-xs-12 my-auto d-flex justify-content-end position-static">
+
+                        <!-- socialLinksList -->
+
+
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="headerFixer">
+            <div class="bg-white">
+                <!-- pageHeaderHolder -->
+                <div class="container clearfix pageHeaderHolder">
+                    <!-- logo -->
+                    <div class="logo alignleft">
+                        <a href="index.html">
+                            <img src="website/assets/images/logo.png" alt="INITS Limited">
+                        </a>
+                    </div>
+                    <!-- pageNavHolder -->
+                    <div class="pageNavHolder alignright d-flex justify-content-end align-items-md-start">
+
+                        <!-- pageNav navbar -->
+                        <nav id="pageNav" class="navbar navbar-expand-lg order-lg-1">
+                            <!-- pageMainNavOpener -->
+                            <button class="navbar-toggler pageMainNavOpener" type="button" data-toggle="collapse" data-target="#pageMainNavCollapse" aria-controls="pageMainNavCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                            <!-- mainNavCollapse navbar collapse -->
+                            <div class="collapse navbar-collapse mainNavCollapse" id="pageMainNavCollapse">
+                                <!-- pageMainNavigation navbar nav -->
+                                <ul class="navbar-nav pageMainNavigation justify-content-md-end">
+
+                                    <li class="nav-item  dropdown">
+                                        <a style="cursor: not-allowed;" class="nav-link fwMedium text-capitalize" href="index.html">Home</a>
+
+                                    </li>
+                                    <li class="nav-item   dropdown">
+                                        <a  disabled class="nav-link fwMedium text-capitalize" href="about">About Us</a>
+
+                                    </li>
+                                    <li class="nav-item   dropdown">
+                                        <a class="nav-link fwMedium text-capitalize" href="index.html#services">Services</a>
+
+                                    </li>
+
+                                    <li class="nav-item  dropdown">
+                                        <a class="nav-link fwMedium text-capitalize" href="portfolio">Portfolio</a>
+
+                                    </li>
+
+                                                                            <li class="nav-item  dropdown">
+                                            <a class="nav-link fwMedium text-capitalize" href="career">Career</a>
+                                        </li>
+                                                                                                            <li class="nav-item ">
+                                        <a class="nav-btn fwMedium text-capitalize" href="contact">Contact</a>
+
+                                    </li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    
+<main>
+    <!-- formBlock -->
+    <section>
+      <div class="contentBlock text-left">
+        <div class="container policySection">
+
+
+          <div class="row">
+            <div class="col-md-12 wow slideInLeft" data-wow-delay="0.5s">
+              <header class="headingHead">
+                <!-- blockH -->
+                <h2 class="text-capitalize blockH hTitle mt-0">Terms and Conditions</h2>
+              </header>
+            </div>
+
+            <div class="col-md-12 mx-auto mt-3">
+              <div class="contact-details contact-details-light text-left">
+                <div class="policy card">
+                  <div class="card-title">
+                    <p class="mb-0 muted">Last Updated: May 16, 2022</p>
+
+                  </div>
+
+                  <div class="card-body">
+                    <p>
+                      This Terms and Conditions of Use (Agreement) sets out the complete online terms and conditions between us (“INITS”, ”We”, ”Our” ) and you ( “User”, “Your“) for services provided via the Recruitment Portal ( hereinafter referred to as “the site”).
+                      <br>It highlights INITS obligations to you and vice versa. The obligations must be carefully considered as you will be bound by the provisions of this Agreement through your use of the site.
+                      <br>By accessing and/or using the site, you agree to these Terms of Use.
+                    </p>
+<!--
+                    <div class="my-5">
+                      <p class="title">Information Collection and Use</p>
+                      <p>We collect several different types of information for various purposes to provide and improve our service to you.</p>
+                    </div> -->
+
+                    <div class="my-5">
+                      <p class="title">It Is Hereby Agreed As Follows:</p>
+                      <div class="mb-4">
+                        <ol>
+                          <li>
+                            <p class="subtitle">Definitions And Interpretation</p>
+                            <p class="mb-0">INITS ,We, Us, or Our means INITS’ Recruitment Portal. Parties means INITS and Users. Services means collection of curriculum vitaes for the recruitment and deployment of suitable talents to fill vacant placements.
+                              You or Your means the User.
+                              <br><br>By using our site, you are agreeing to comply with and be bound by the following terms of use.
+                              Please review the following terms carefully.
+
+                              <br><br>If you do not agree to these terms, you should not use this site.</p><p>
+                          </p></li>
+
+                          <li>
+                            <p class="subtitle">Acceptance of Agreement</p>
+                            <p class="mb-0">You agree to the terms and conditions outlined in this Terms of Use Agreement ("Agreement")
+                              with respect to the "Site".<br> <br>
+                              This Agreement constitutes the entire and only agreement between us and you,
+                              and supersedes all prior or contemporaneous agreements, representations, warranties
+                              and understandings with respect to the Site, or services provided by or through the Site,
+                              and the subject matter of this Agreement.</p><p>
+                          </p></li>
+
+                          <li>
+                            <p class="subtitle">Copyright</p>
+                            <p class="mb-0">The content, organisation, graphics, design, compilation, magnetic translation, digital conversion and other matters related to the Site are protected under applicable copyrights, trademarks and other proprietary (including but not limited to intellectual property) rights.
+                              <br><br>The copying, redistribution, use or publication by you of any such matters or any part of the Site, except as allowed by clause 4, is strictly prohibited.
+                              You do not acquire ownership rights to any content or other materials viewed through the Site.
+                              <br><br>The posting of information or materials on the Site does not constitute a waiver of any right in such information and materials.</p><p>
+                              </p></li>
+                          <li>
+                            <p class="subtitle">Limited Right To Use</p>
+                            <p class="mb-0">The viewing, printing, or downloading of any form or document from the Site grants you only a limited, nonexclusive licence for use solely by you for your own personal use and not for republication, distribution, assignment, sublicense, sale, preparation of derivative works or other use.
+                              <br><br>No part of any form or document may be reproduced in any form or incorporated into any information retrieval system, electronic or mechanical, other than for your personal use (but not for resale or redistribution).</p><p>
+                          </p></li>
+                          <li>
+                            <p class="subtitle">Editing, Deleting And Modification</p>
+                            <p class="mb-0">We reserve the right in our sole discretion to edit, delete or modify any documents, information or other content appearing on the Site. The latest Agreement will be posted on the Site, and you should review this Agreement prior to using the Site.</p><p>
+                          </p></li>
+                          <li>
+                            <p class="subtitle">Non-Transferable</p>
+                            <p class="mb-0">Your right to use the Site is not transferable. Any password or right given to you to obtain information is not transferable.</p><p>
+                          </p></li>
+                          <li>
+                            <p class="subtitle">Use Of Information</p>
+                            <p class="mb-0">We reserve the right, and you authorise us, to the use and assignment of all information regarding Site uses by you and all information provided by you in any manner consistent with our Privacy Policy.
+                              <br><br>All remarks, suggestions, ideas, graphics, or other information communicated by you to us through the Site (collectively, the "Submission") will forever be the property of INITS. INITS will not be required to treat any Submission as confidential, and will not be liable for any ideas for its business (including without limitation, product, service or advertising ideas) and will not incur any liability as a result of any similarities that may appear in future INITS services or operations.
+                              <br><br>Without limitation, INITS will have exclusive ownership of all present and future existing rights to the Submission of every kind and nature everywhere. INITS will be entitled to use the Submission for any commercial or other purpose whatsoever, without compensation to you or any other person sending the Submission.
+                              <br><br>You acknowledge that you are responsible for whatever material you submit, and you have full responsibility for the message, including its legality, reliability, appropriateness, originality, and copyright.</p><p>
+                          </p></li>
+                          <li>
+                            <p class="subtitle">Privacy Policy</p>
+                            <p class="mb-0">Our Privacy Policy forms part of this Agreement and is subject to review as the need arises.</p><p>
+                          </p></li>
+                          <li>
+                            <p class="subtitle">Termination</p>
+                            <p class="mb-0">INITS may suspend or terminate your account if we suspect that you have engaged in suspicious or fraudulent activity in connection with use of the Services.
+                              Without limiting other remedies, we may issue a warning, suspend or terminate your access and refuse to provide our Services to You if:</p><p>
+                                </p><ul class="mb-4">
+                                  <li>You breach this Agreement; or</li>
+                                  <li>We are required to do so by Law; or</li>
+                                  <li>We believe that your actions may cause financial loss or legal liability for you, our users or to us.</li>
+                                </ul>
+                          </li>
+                          <li>
+                            <p class="subtitle">Limitation Of Liability</p>
+                            <p class="mb-0">In no event will INITS be liable for (a) any indirect, special, consequential, punitive, or exemplary damages or (b) any damages whatsoever arising out of or in connection with the site (including, without limitation, use, inability to use, or the results of use of INITS’ services), whether such damages are based on warranty, contract, tort, statute, or any other legal theory.</p><p>
+                          </p></li>
+                          <li>
+                            <p class="subtitle">Indemnity</p>
+                            <p class="mb-0">You agree to defend, indemnify, and hold INITS, its Officers, Directors and Employees, harmless from and against any claims, actions or demands, liabilities and settlements including without limitation, reasonable legal and accounting fees, resulting from, or alleged to result from, your violation of this Agreement.</p><p>
+                          </p></li>
+                          <li>
+                            <p class="subtitle">Severability</p>
+                            <p class="mb-0">If any provision of this Agreement is or becomes in whole or in part, invalid or unenforceable such provision shall be expunged from this agreement and shall not affect the legality, enforceability or validity of the remainder of this Agreement and the expunged provision shall be replaced, to the extent possible with a legal, enforceable, and valid provision that is as similar in tenor to the expunged provision.</p><p>
+                          </p></li>
+                          <li>
+                            <p class="subtitle">Non-Waiver Of Rights</p>
+                            <p class="mb-0">No failure or delay of any Party to exercise any right hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of such right or any abandonment or discontinuance of steps to enforce such a right preclude any other or further exercise thereof, or of any other right, nor shall it in any way affect INITS’ right to enforce such provisions thereafter.</p><p>
+                          </p></li>
+                          <li>
+                            <p class="subtitle">Governing Law</p>
+                            <p class="mb-0">This Agreement is governed by and shall be construed in accordance with the laws of the Federal Republic of Nigeria.</p><p>
+                          </p></li>
+
+                        </ol>
+
+                    <div class="mt-5">
+                      <p class="title">Our Contact Details</p>
+                      <p>The head office of INITS Limted is situated at 16 Majaro Street, Onike, Lagos, Nigeria.
+                        <br><br>
+                        You can contact us by:
+                      </p>
+                      <ul>
+                        <li><span class="subtitle">Post: </span>Using the postal address given above as well as the addresses published on the Website.</li>
+                        <li><span class="subtitle">Telephone: </span>Using the contact number published on our Website.</li>
+                        <li><span class="subtitle">Email: </span>Using the email address published on our Website.</li>
+                        <li>Or via the contact forms on our Website.</li>
+                      </ul>
+                    </div>
+
+                  </div>
+
+                  <div class="card-footer">
+                    <button onclick="window.location = 'https://initsng.com/'">I Understand</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div></div></section>
+
+  </main>
+    <div class="pageFooterAreaWrap position-relative text-center text-sm-left" data-parallax="scroll" data-image-src="images/footer-image.png">
+        <div class="position-relative pageFooterWrapHolder">
+            <div class="container">
+                <footer id="pageFooter" class="position-relative">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-12">
+                            <div class="logo">
+                                <a href="index.html">
+                                    <img src="website/assets/images/logo.png" alt="INITS Limited">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-9 col-md-12">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>OFFICIAL HOURS</h3>
+                                        <ul class="list-unstyled">
+                                            <li>09:00am | 05:00pm</li>
+                                            <li>Monday to Friday</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>Contact</h3>
+                                        <ul class="list-unstyled">
+                                            <li><a href="mailto:info@initsng.com">info@initsng.com</a></li>
+                                            <li><a onclick="ga('send', 'event', { eventCategory: 'Contact', eventAction: 'Call', eventLabel: 'Mobile Button'});" href="tel:+234 708 067 2012">+234 708 067 2012</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>Address</h3>
+                                        <ul class="list-unstyled">
+                                            <li>
+                                                <p>16 Majaro Street,
+                                                    <br> Onike - Yaba,
+                                                    <br> Lagos, Nigeria</p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>Quick Links</h3>
+                            
+                                        <ul class="list-unstyled">
+                                            <li><a href="faq">FAQ</a></li>
+                                            <li><a href="terms-and-conditions">Terms & Conditions</a></li>
+                                            <li><a href="privacy-policy">Privacy Policy</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </footer>
+            </div>
+            <hr class="separator">
+            <div class="container">
+                <div class="copyrightWrap">
+                    <p>Copyright &copy;2022 INITS, All Rights Reserved.</p>
+                </div>
+                <!-- compliance icon added -->
+                <div style="position:fixed;bottom:5px;right:0;padding:5px 60px 5px 15px; background:rgba(246, 246, 240, 0)">
+                    <img style="max-height:50px;"src="website/assets/images/NDPRlogo.png" alt="NDPR Audit Compliant 2022">
+                </div>
+                <!-- compliance icon end -->
+            </div>
+        </div>
+    </div>
+    <!-- pageFooterAreaWrap -->
+    <div class="modal fade" id="pwdChanged" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog mini" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title text-left">Update Password</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form class="pwdChange" id="pwdChange" action="https://initsng.com/applicant/change-password" method="post">
+                    <input type="hidden" name="_token" value="Suq7IjhFOr0aNFhj3ZCeInsbJyUr7PAZj7XqsmbJ">                    <div class="modal-body">
+                                                                                                                                <div class="row">
+                                <div class="col-md-12">
+                                    <span class="has-float-label">
+                                      <input type="password" id="cPWD" name="old_password" class="form-control" placeholder="&nbsp;" required />
+                                      <label for="cPWD">Current Password</label>
+                                    </span>
+                                    <small style="position: absolute; bottom: 10px; font-family: 'Roboto', sans-serif; font-size: 10px; font-weight: 300" id="oPASSErr" class="text-danger"></small>
+
+                                </div>
+                                <div class="col-md-12">
+                                    <span class="has-float-label">
+                                      <input type="password" id="nPWD" minlength="8" name="new_password" class="form-control" placeholder="&nbsp;" required />
+                                      <label for="nPWD">New Password</label>
+                                    </span>
+                                    <small style="position: absolute; bottom: 10px; font-family: 'Roboto', sans-serif; font-size: 10px; font-weight: 300" class="text-danger" id="nPASSErr"></small>
+
+                                </div>
+                                <div class="col-md-12">
+                                    <span class="has-float-label">
+                                      <input type="password" id="cnPWD" minlength="8" name="new_password_confirmation" class="form-control" placeholder="&nbsp;" required />
+                                      <label for="cnPWD">Confirm New Password</label>
+                                    </span>
+                                    <small style="position: absolute; bottom: 10px; font-family: 'Roboto', sans-serif; font-size: 10px; font-weight: 300" class="text-danger" id="cPASSErr"></small>
+
+                                </div>
+                            </div>
+
+                    </div>
+                    <div class="modal-footer p-auto">
+                        <button type="button" id="setNewPassBtn" class="btn-outline">Save Changes</button>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+
+    
+</div>
+<span id="back-top" class="text-center rounded-circle fas fa-angle-up"></span>
+<div id="loader" class="loader-holder">
+    <div class="block">
+        <div class="dot white"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+    </div>
+</div>
+</div>
+<!-- include jQuery library -->
+<script src="website/js/jquery.min.js"></script>
+<script src="website/js/popper.min.js"></script>
+
+<script src="website/js/jquery-3.3.1.min.js"></script>
+<!-- include Plugins JavaScript -->
+<script src="website/js/plugins.js"></script>
+<!-- include custom JavaScript -->
+<script src="website/js/jquery.main.js"></script>
+<script src="website/js/wow.min.js"></script>
+<script src="website/js/main.js"></script>
+<script src="website/js/datatables.min.js"></script>
+
+
+<script>
+    var old_pass_checker = false;
+    $('#setNewPassBtn').click(function(){
+        var old_pass = $('#cPWD').val();
+        var new_pass = $('#nPWD').val();
+        var new_pass_conf = $('#cnPWD').val();
+        old_pass_checker = true;
+        if(old_pass.length < 3) {
+            $('#oPASSErr').html('Please provide your current password.');
+            return old_pass_checker = false;
+        }
+        confirmOldPassword(old_pass);
+
+        $('#nPASSErr').html('');
+        $('#cPASSErr').html('');
+
+        if(new_pass.length < 8) {
+            $('#nPASSErr').html('Your new password must have at least 8 character.');
+            old_pass_checker = false;
+        }else if(new_pass !== new_pass_conf) {
+            $('#cPASSErr').html('The password confirmation does not match.');
+            old_pass_checker = false;
+
+        }
+        if(old_pass_checker == true){
+            return $('#pwdChange').submit();
+        }
+    });
+
+    function confirmOldPassword(password)
+    {
+        $.ajax({
+            url: "https://initsng.com/applicant/password-confirmation",
+            method: "POST",
+            dataType: 'json',
+            data: {password: password, _token: "Suq7IjhFOr0aNFhj3ZCeInsbJyUr7PAZj7XqsmbJ"}
+        }).done(function (result) {
+            let data = result.status;
+            console.log(data);
+            old_pass_checker = true;
+            $('#oPASSErr').html('');
+            if(data === false){
+                $('#oPASSErr').html('['+ password +'] does not match your current password.');
+                old_pass_checker = false;
+
+
+            }
+            return true;
+        }).fail(function (err) {
+            console.error(err);
+            return false;
+        });
+    }
+</script>
+<script>
+
+
+    $(document).ready(function() {
+
+
+
+        function offSetManager() {
+
+            var yOffset = 0;
+            var currYOffSet = window.pageYOffset;
+
+            if (yOffset < currYOffSet) {
+                myNavBar.add();
+            } else if (currYOffSet == yOffset) {
+                myNavBar.remove();
+            }
+        }
+        window.onscroll = function(e) {
+            offSetManager();
+        }
+        offSetManager();
+    });
+</script>
+
+
+<script>
+    $('#slick-slider').slick({
+        draggable: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        touchThreshold: 1000,
+        dots: false,
+        infinite: true,
+        arrows: false,
+        speed: 300,
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: true
+            }
+        },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+        ]
+    });
+    // Custom carousel nav
+    $('.carousel-prev').click(function() {
+        $(this).parent().find('#slick-slider').slick('slickPrev');
+    });
+
+    $('.carousel-next').click(function(e) {
+        e.preventDefault();
+        $(this).parent().find('#slick-slider').slick('slickNext');
+    });
+</script>
+<script>
+    $('#slick-slider-2').slick({
+        draggable: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        touchThreshold: 1000,
+        dots: false,
+        infinite: true,
+        arrows: false,
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: false
+            }
+        },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+        ]
+    });
+    // Custom carousel nav
+    $('.carousel-prev').click(function() {
+        $(this).parent().find('#slick-slider-2').slick('slickPrev');
+    });
+
+    $('.carousel-next').click(function(e) {
+        e.preventDefault();
+        $(this).parent().find('#slick-slider-2').slick('slickNext');
+    });
+    function returnBack(url)
+    {
+        window.location = url;
+    }
+</script>
+
+</body>
+
+
+
+
+</html>

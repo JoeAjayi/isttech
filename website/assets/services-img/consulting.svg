@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="378px" height="378px" viewBox="0 0 378 378" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 7</title>
+    <g id="themed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="service-page--1" transform="translate(-912.000000, -201.000000)">
+            <g id="Group-7" transform="translate(912.000000, 201.000000)">
+                <g id="Group-28">
+                    <path d="M94.954142,180 L0,180 C3.09603877,117.297383 36.8472159,62.633191 86.6205468,30.6 L134.1,112.609793 C112.529237,128.022161 97.7175296,152.243735 94.954142,180 Z" id="Path" fill="#4BAF33"></path>
+                    <path d="M134.1,266.289861 L86.6205358,348.3 C36.8473603,316.266781 3.09623479,261.602618 0,198.9 L94.9541957,198.9 C97.7177456,226.656119 112.529395,250.877544 134.1,266.289861 Z" id="Path" fill="#025197"></path>
+                    <path d="M189.656516,378 C158.629829,378 129.345638,370.579703 103.5,357.426021 L150.98391,275.624788 C162.791892,280.885386 175.880697,283.810989 189.656516,283.810989 C203.627327,283.810989 216.891537,280.801978 228.829764,275.4 L276.3,357.1773 C250.33547,370.486125 220.878229,378 189.656516,378 Z" id="Path" fill="#4BAF33"></path>
+                    <path d="M276.3,20.8227 L228.829764,102.6 C216.891537,97.1980218 203.627327,94.1890111 189.656516,94.1890111 C175.880697,94.1890111 162.791892,97.1146139 150.98391,102.375212 L103.5,20.5739794 C129.345638,7.42029743 158.629829,0 189.656516,0 C220.878229,0 250.33547,7.51387455 276.3,20.8227 Z" id="Path" fill="#025197"></path>
+                    <path d="M377.1,179.1 L282.468219,179.1 C279.733246,151.480679 265.156249,127.354305 243.9,111.897069 L291.231751,29.7 C340.584942,61.8372529 374.023982,116.4662 377.1,179.1 Z" id="Path" fill="#4BAF33"></path>
+                    <path d="M292.131762,348.3 L244.8,266.102583 C266.056092,250.6454 280.633032,226.519173 283.368165,198.9 L378,198.9 C374.923788,261.533801 341.484798,316.162719 292.131762,348.3 Z" id="Path" fill="#025197"></path>
+                    <text id="Identification-&amp;-Bio" font-family="Heebo-Medium, Heebo" font-size="14.4" font-weight="400" fill="#E7F2FA">
+                        <tspan x="147.276563" y="319.2">Identification </tspan>
+                        <tspan x="148.594922" y="340.2">&amp; Biometrics</tspan>
+                    </text>
+                    <text id="Digital-Transformati" font-family="Heebo-Medium, Heebo" font-size="14.4" font-weight="400" fill="#E7F2FA">
+                        <tspan x="169.291406" y="44.7">Digital</tspan>
+                        <tspan x="139.665234" y="65.7">Transformation</tspan>
+                    </text>
+                    <text id="SaaS-Consulting" transform="translate(312.100481, 118.725000) rotate(60.000000) translate(-312.100481, -118.725000) " font-family="Heebo-Medium, Heebo" font-size="14.4" font-weight="400" fill="#E7F2FA">
+                        <tspan x="295.598137" y="112.725">SaaS</tspan>
+                        <tspan x="277.390715" y="133.725">Consulting</tspan>
+                    </text>
+                    <text id="CRM-Consulting" transform="translate(312.100481, 258.375000) rotate(120.000000) translate(-312.100481, -258.375000) " font-family="Heebo-Medium, Heebo" font-size="14.4" font-weight="400" fill="#E7F2FA">
+                        <tspan x="296.56845" y="252.375">CRM</tspan>
+                        <tspan x="277.390715" y="273.375">Consulting</tspan>
+                    </text>
+                    <text id="Data-Analytics" transform="translate(67.699519, 119.625000) rotate(-60.000000) translate(-67.699519, -119.625000) " font-family="Heebo-Medium, Heebo" font-size="14.4" font-weight="400" fill="#E7F2FA">
+                        <tspan x="52.8284253" y="113.625">Data</tspan>
+                        <tspan x="37.9151441" y="134.625">Analytics</tspan>
+                    </text>
+                    <text id="Voting-System-&amp;-Proc" transform="translate(67.699519, 258.375000) rotate(-120.000000) translate(-67.699519, -258.375000) " font-family="Heebo-Medium, Heebo" font-size="14.4" font-weight="400" fill="#E7F2FA">
+                        <tspan x="20.6815503" y="252.375">Voting System </tspan>
+                        <tspan x="27.4174878" y="273.375">&amp; Processes</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle" stroke="" stroke-width="1.8" fill-opacity="0" fill="#FFFFFF" transform="translate(189.000000, 189.000000) scale(-1, -1) translate(-189.000000, -189.000000) " x="104.9" y="104.9" width="168.2" height="168.2" rx="84.1"></rect>
+                <text id="Areas-of-Specializat" font-family="Heebo-Bold, Heebo" font-size="21" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="149.276402" y="180">Areas of </tspan>
+                    <tspan x="122.467564" y="211">Specialization</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

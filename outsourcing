@@ -1,0 +1,2141 @@
+<!--
+****************** ************ **************************** ****************************** ************* **************** ************* *********
+||&&========= ========== ======================= ================== ====== ============= ============= ============= ==================== ********
+||                                                                                                                                          *****
+||  ███████ ████████        ██ ███    ██        ▄▓██████-███████▄         ,▄▄▓███████▓▄▄,        ╓▄ ██████ ██████                            ***
+||         ██               ██   ██   ██                ██                       ██                █                                         **
+||         ██               ██    ██  ██                ██                       ██                 ██                                       *
+||         ██               ██     ██ ██                ██                       ██                  ██████████ █                            **
+||         ██               ██      ████                ██                       ██                            ██                            ***
+||         ██               ██       ███                ██                       ██                            ██                            ****
+||  ████████████████        ██        ██        ▄▓███████████████▄               ██                █████└╙╓▄╙└███                            *****
+||                                                                                                                                           ******
+****██*******█ █*****█ █*█ ****** ****** ********* █*****█ ██*██****███**██ █*************█ █**************█ █**************█ ************* ********
+
+=========================================================
+* INITS WEBSITE - INDEXED
+=========================================================
+* Copyright  INITS LIMITED (https://www.initsng.com)
+* Coded by BLESSING AJALA | SOFTWARE ENGINEER 🤠
+========================================================
+
+-->
+<!DOCTYPE html>
+<html lang="en" data-textdirection="ltr">
+
+<head>
+    <!-- set the encoding of your site -->
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <!-- set the viewport width and initial-scale on mobile devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- set the HandheldFriendly -->
+    <meta name="HandheldFriendly" content="True">
+    <!-- set the Keyword -->
+    <meta name="keywords" content="INITS Limited - IT Company">
+
+    <meta name="description" content="INITS Limited is one of Africa’s leading software development and IT consulting company,
+    incorporated in 2009 with offices located in Nigeria, Nairobi and New York. We offer innovative custom-made software
+    development solutions, interactive designs, winsome web and mobile applications and stellar human resources that meet the needs of our diverse clientèle.">
+    <meta name="author" content="INITS Limited(http://initsng.com)">
+    <meta property="og:title" content="INITS LIMITED">
+    <meta property="og:description" content="INITS Limited is one of Africa’s leading software development and IT consulting company,
+    incorporated in 2009 with offices located in Nigeria, Nairobi and New York. We offer innovative custom-made software
+    development solutions, interactive designs, winsome web and mobile applications and stellar human resources that meet the needs of our diverse clientèle.">
+
+    <meta property="og:image" content="https://initsng.com/assets/img/logo/favicon.jpg">
+    <meta property="og:url" content="www.initsng.com">
+    <!-- include poppins google font cdn link -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,600,600i,700,700i%7CRoboto:400,400i,500,500i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;500;600;700;800&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+    <!-- set the page title -->
+    <title>INITS Limited | Home</title> <!-- include the site bootstrap stylesheet -->
+    <link rel="stylesheet" href="website/css/bootstrap.css">
+    <link rel="stylesheet" href="website/css/bootstrap-float-label.css">
+    <!-- include the site Fontsicon stylesheet -->
+    <link rel="stylesheet" href="https://initsng.com/website/css/fontsicon.css">
+
+    <!-- include the site Plugins stylesheet -->
+    <link rel="stylesheet" href="https://initsng.com/website/css/plugins.css">
+    <link rel="stylesheet" href="website/css/jquery-ui.min.css">
+    <link rel="stylesheet" href="website/css/animate.css">
+    
+
+    <!-- include the site stylesheet -->
+    <link rel="stylesheet" href="website/css/all.css">
+    <link rel="stylesheet" href="website/css/style.css">
+    <link rel="stylesheet" href="website/css/main.css">
+    <link rel="stylesheet" href="website/css/colors.css">
+
+    <!-- include the site responsive stylesheet -->
+    <link rel="stylesheet" href="website/css/responsive.css">
+
+    <link href="assets/img/logo/favicon.jpg" type="image/x-icon" rel="icon" />
+    <link href="assets/img/logo/favicon.jpg" type="image/x-icon" rel="shortcut icon" />
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="website/assets/icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="website/assets/icons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="website/assets/icons/favicon-16x16.png" />
+    <link rel="mask-icon" href="website/assets/icons/safari-pinned-tab.svg" color="#5bbad5" />
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+        <link rel="stylesheet" href="phone_inputs/build/css/intlTelInput.css">
+
+    <style>
+
+        .alert-warning{
+            background: #e8a5b5;
+            border-color: #e8a5b5;
+            border-radius: 4px;
+            font-weight: 500;
+        }
+        .alert-success{
+            color: white;
+            border-radius: 4px;
+        }
+        .hollow{
+            cursor: pointer;
+        }
+
+        .iti{
+            width: 100% !important;
+        }
+        .iti__country-list{
+            background-color: #303030;
+            border-radius: 3px;
+        }
+    </style>
+
+</head>
+
+<body>
+<!-- pageWrapper -->
+<div id="pageWrapper">
+    <!-- pageHeader -->
+    <header id="pageHeader">
+        <!-- pageHeaderTopBar -->
+        <div class="pageHeaderTopBar bg-light d-none d-lg-block">
+            <div class="container clearfix position-relative">
+                <div class="row">
+                    <div class="col-3 col-lg-6 my-auto">
+                        <!-- topBarContactList -->
+                        <ul class="list-unstyled topBarContactList align-items-center mb-0 d-none d-md-flex">
+                            <li>
+                                <a href="tel:+234 708 067 2012">
+                                    <span class="d-none d-lg-inline">Phone: <a onclick="ga('send', 'event', { eventCategory: 'Contact', eventAction: 'Call', eventLabel: 'Mobile Button'});" href="tel:+234 708 067 2012">+234 708 067 2012</a></span>
+                                </a>
+                            </li>
+                            <li class="muted">|</li>
+
+                            <li>
+                                <a href="outsourcing#">
+                                    <span class="d-none d-lg-inline">Email: <a href="mailto:info@initsng.com">info@initsng.com</a></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-9 col-lg-6 col-xs-12 my-auto d-flex justify-content-end position-static">
+
+                        <!-- socialLinksList -->
+
+
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="headerFixer">
+            <div class="bg-white">
+                <!-- pageHeaderHolder -->
+                <div class="container clearfix pageHeaderHolder">
+                    <!-- logo -->
+                    <div class="logo alignleft">
+                        <a href="index.html">
+                            <img src="website/assets/images/logo.png" alt="INITS Limited">
+                        </a>
+                    </div>
+                    <!-- pageNavHolder -->
+                    <div class="pageNavHolder alignright d-flex justify-content-end align-items-md-start">
+
+                        <!-- pageNav navbar -->
+                        <nav id="pageNav" class="navbar navbar-expand-lg order-lg-1">
+                            <!-- pageMainNavOpener -->
+                            <button class="navbar-toggler pageMainNavOpener" type="button" data-toggle="collapse" data-target="#pageMainNavCollapse" aria-controls="pageMainNavCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                            <!-- mainNavCollapse navbar collapse -->
+                            <div class="collapse navbar-collapse mainNavCollapse" id="pageMainNavCollapse">
+                                <!-- pageMainNavigation navbar nav -->
+                                <ul class="navbar-nav pageMainNavigation justify-content-md-end">
+
+                                    <li class="nav-item  dropdown">
+                                        <a style="cursor: not-allowed;" class="nav-link fwMedium text-capitalize" href="index.html">Home</a>
+
+                                    </li>
+                                    <li class="nav-item   dropdown">
+                                        <a  disabled class="nav-link fwMedium text-capitalize" href="about">About Us</a>
+
+                                    </li>
+                                    <li class="nav-item active  dropdown">
+                                        <a class="nav-link fwMedium text-capitalize" href="index.html#services">Services</a>
+
+                                    </li>
+
+                                    <li class="nav-item  dropdown">
+                                        <a class="nav-link fwMedium text-capitalize" href="portfolio">Portfolio</a>
+
+                                    </li>
+
+                                                                            <li class="nav-item  dropdown">
+                                            <a class="nav-link fwMedium text-capitalize" href="career">Career</a>
+                                        </li>
+                                                                                                            <li class="nav-item ">
+                                        <a class="nav-btn fwMedium text-capitalize" href="contact">Contact</a>
+
+                                    </li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+        <main>
+
+        <section class="w-100 imageHeader contentBlock1 ">
+            <!-- banner -->
+            <header class="container">
+                <div class="row">
+                    <div class="col-md-6 my-auto">
+                        <div class="imageHeaderText">
+                            <h1>Resource Outsourcing</h1>
+                            <p>
+                                Do you require the service(s) of a skilled resource for a
+                                long or short term project? We have a pool of skilled resources at your your beck and call.<br><br>
+                                Tell us about your business requirements in the form below.
+                            </p>
+                        </div>
+                        <div class="mt-5">
+                            <a class="link link--arrowed" href="outsourcing#requestForm">
+                                <span class="mr-3"><img class="wow tada" data-wow-iteration="infinite" data-wow-duration="1s" src="website/assets/icons/scroll-2.svg" alt=""></span> Request this Service </a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 my-auto d-none d-md-block">
+                        <div class="row">
+                            <div class="col-md-10 my-auto ml-auto mr-0">
+                                <div class="h-100 d-flex">
+                                    <img src="website/assets/services-img/outsource.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </header>
+        </section>
+        <!-- What we offer -->
+        <section class="contentBlock servicesCard text-center">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 mx-auto">
+                        <!-- headingHead -->
+                        <div class="headingHead mb-0 mt-0 wow fadeInUp" data-wow-delay="0.1s">
+                            <!-- blockH -->
+                            <h2 class="text-capitalize blockH hTitle mt-0">How It Works</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-9 mx-auto">
+                        <div class="row">
+                            <div class="col-md-4 wow tada hiw">
+                                <div class="card text-center">
+                                    <div class="process-img">
+                                        <img src="website/assets/icons/search.svg" alt="">
+                                    </div>
+                                    <div class="card-title">
+                                        <h4>Specify</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <p>Define the developer you need to hire for your project.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 wow tada hiw">
+                                <div class="card text-center">
+                                    <div class="process-img">
+                                        <img src="website/assets/icons/request.svg" alt="">
+                                    </div>
+                                    <div class="card-title">
+                                        <h4>Request</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <p>Send in a Request for developers that match your project's skillset.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 wow tada hiw">
+                                <div class="card text-center">
+                                    <div class="process-img">
+                                        <img src="website/assets/icons/hire.svg" alt="">
+                                    </div>
+                                    <div class="card-title">
+                                        <h4>Hire</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <p>Get approval and hire developers to start working on your projects.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div id="requestForm"></div>
+
+            <div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6 mx-auto wow fadeInDown" data-wow-delay="0.1s">
+                            <!-- headingHead -->
+                            <div class="headingHead text-center">
+                                <h2 class="text-capitalize blockH hTitle">Hire a Resource</h2>
+                                <p>
+                                    Fill the form below, specifying the resource you require, and we will get back to you as soon as possible
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- resource hire form -->
+                    <div class="col-md-12 mx-auto wow">
+                                                                                                <div class="contact-details contact-details-light text-left">
+                            <div class="message card mt-5">
+                                <form class="" onsubmit="process(event)" action="outsourcing" method="post">
+                                    <input name="robot_csrf" hidden>
+                                    <input type="hidden" name="_token" value="Suq7IjhFOr0aNFhj3ZCeInsbJyUr7PAZj7XqsmbJ">                                <!-- Modal form -->
+                                <div class="modal fade" id="UIUXDesign" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title" id="myModalLabel">Resource Details</h4>
+
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                            </div>
+
+                                            <div class="modal-body">
+                                                    <div class="row">
+
+                                                        <!-- section-1 -->
+                                                        <div class="col-md-12 text-left">
+                                                            <div class="section-title">
+                                                                <p>Select skill level(s) required?</p>
+                                                            </div>
+                                                            <div class="section-group">
+                                                                <div class="row">
+                                                                    <!-- junior -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='jnNumber'>
+                                                                                        <input class="styled-checkbox"  id="jn-label" type="checkbox" value="Junior" name="" onclick="assignSkill(this, 'UIUXDesignerJunior');">
+                                                                                        <label for="jn-label">Junior</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="inQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='UIUXDesignerJunior' class="input-group-field" type="number" name="UI/UX Designer['skills']['Junior']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="jnQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                    <!-- Intermediate -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='inNumber'>
+                                                                                        <input class="styled-checkbox" id="in-label" type="checkbox" name="" value="Intermediate" onclick="assignSkill(this, 'UIUXDesignerIntermediate');">
+                                                                                        <label for="in-label">Intermediate</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="inQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='UIUXDesignerIntermediate' class="input-group-field" type="number" name="UI/UX Designer['skills']['Intermediate']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="inQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <!-- Senior -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='snNumber'>
+                                                                                        <input class="styled-checkbox" id="sn-label" type="checkbox" value="value2" onclick="assignSkill(this, 'UIUXDesignerSenior');">
+                                                                                        <label for="sn-label">Senior</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="snQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='UIUXDesignerSenior' class="input-group-field" type="number" name="UI/UX Designer['skills']['Senior']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="snQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <!-- Lead -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='ldNumber'>
+                                                                                        <input class="styled-checkbox" id="ld-label" type="checkbox" value="value2" onclick="assignSkill(this, 'UIUXDesignerLead');">
+                                                                                        <label for="ld-label">Lead</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="ldQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='UIUXDesignerLead' class="input-group-field" type="number" name="UI/UX Designer['skills']['Lead']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="ldQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <!-- unsure -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='blankNumber'>
+                                                                                        <input class="styled-checkbox" id="blank-label" type="checkbox" value="value2" onclick="assignSkill(this, 'UIUXDesignerUnsure');">
+                                                                                        <label for="blank-label">Unsure</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="blankQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='UIUXDesignerUnsure' class="input-group-field" type="number" name="UI/UX Designer['skills']['Unsure']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="blankQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+                                                        <!-- section-2 -->
+                                                        <div class="col-md-12 text-left">
+                                                            <div class="section-title">
+                                                                <p>Duration of project?</p>
+                                                            </div>
+                                                            <div class="section-group">
+                                                                <div class="row">
+                                                                    <!-- junior -->
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">1 - 3 months
+                                                                            <input type="radio" value="1 - 3 months"  name="UI/UX Designer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">3 - 6 months
+                                                                            <input type="radio" value="3 - 6 months" name="UI/UX Designer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">6 - 9 months
+                                                                            <input type="radio" value="6 - 9 months" name="UI/UX Designer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">9 - 12 months
+                                                                            <input value="9 - 12 months" type="radio" name="UI/UX Designer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">>12 months
+                                                                            <input type="radio" value=">12 months" name="UI/UX Designer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">unsure
+                                                                            <input type="radio" value="Unsure" name="UI/UX Designer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="modal-footer">
+                                                        <button class="border-btn" type="submit" data-dismiss="modal" name="button">Save Details</button>
+                                                        <!-- <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> -->
+                                                    </div>
+
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <div class="modal fade" id="MobileDev" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title" id="myModalLabel">Resource Details</h4>
+
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                            </div>
+                                            <div class="modal-body">
+                                                    <div class="row">
+
+                                                        <!-- section-1 -->
+                                                        <div class="col-md-12 text-left">
+                                                            <div class="section-title">
+                                                                <p>Select skill level(s) required?</p>
+                                                            </div>
+                                                            <div class="section-group">
+                                                                <div class="row">
+                                                                    <!-- junior -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='MobileDev_jnNumber'>
+                                                                                        <input class="styled-checkbox"  id="MobileDev_jn-label" type="checkbox" value="MobileDev" onclick="assignSkill(this, 'MobileDevJunior');">
+                                                                                        <label for="MobileDev_jn-label">Junior</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="inQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='MobileDevJunior' class="input-group-field" type="number" name="Mobile Developer['skills']['Junior']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="jnQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                    <!-- Intermediate -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='MobileDev_inNumber'>
+                                                                                        <input class="styled-checkbox" id="MobileDev_in-label" type="checkbox" value="MobileDev" onclick="assignSkill(this, 'MobileDevIntermediate');">
+                                                                                        <label for="MobileDev_in-label">Intermediate</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="inQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='MobileDevIntermediate' class="input-group-field" type="number" name="Mobile Developer['skills']['Intermediate']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="inQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <!-- Senior -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='MobileDev_snNumber'>
+                                                                                        <input class="styled-checkbox" id="MobileDev_sn-label" type="checkbox" value="MobileDev" onclick="assignSkill(this, 'MobileDevSenior');">
+                                                                                        <label for="MobileDev_sn-label">Senior</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="snQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='MobileDevSenior' class="input-group-field" type="number" name="Mobile Developer['skills']['Senior']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="snQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <!-- Lead -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='MobileDev_ldNumber'>
+                                                                                        <input class="styled-checkbox" id="MobileDev_ld-label" type="checkbox" value="MobileDev" onclick="assignSkill(this, 'MobileDevLead');">
+                                                                                        <label for="MobileDev_ld-label">Lead</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="ldQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='MobileDevLead' class="input-group-field" type="number" name="Mobile Developer['skills']['Lead']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="ldQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <!-- unsure -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='MobileDev_blankNumber'>
+                                                                                        <input class="styled-checkbox" id="MobileDev_blank-label" type="checkbox" value="MobileDev" onclick="assignSkill(this, 'MobileDevUnsure');">
+                                                                                        <label for="MobileDev_blank-label">Unsure</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="blankQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='MobileDevUnsure' class="input-group-field" type="number" name="Mobile Developer['skills']['Unsure']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="blankQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+                                                        <!-- section-2 -->
+                                                        <div class="col-md-12 text-left">
+                                                            <div class="section-title">
+                                                                <p>Duration of project?</p>
+                                                            </div>
+                                                            <div class="section-group">
+                                                                <div class="row">
+                                                                    <!-- junior -->
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">1 - 3 months
+                                                                            <input type="radio" value="1 - 3 months"  name="Mobile Developer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">3 - 6 months
+                                                                            <input type="radio" value="3 - 6 months"  name="Mobile Developer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">6 - 9 months
+                                                                            <input type="radio" value="6 - 9 months" name="Mobile Developer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">9 - 12 months
+                                                                            <input value="9 - 12 months" type="radio" name="Mobile Developer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">>12 months
+                                                                            <input value=">12 months" type="radio" name="Mobile Developer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">unsure
+                                                                            <input value="Unsure" type="radio" name="Mobile Developer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="modal-footer">
+                                                        <button class="border-btn" type="button" data-dismiss="modal" name="button">Save Details</button>
+                                                        <!-- <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> -->
+                                                    </div>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <div class="modal fade" id="BackendDev" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title" id="myModalLabel">Resource Details</h4>
+
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                            </div>
+                                            <div class="modal-body">
+                                                    <div class="row">
+
+                                                        <!-- section-1 -->
+                                                        <div class="col-md-12 text-left">
+                                                            <div class="section-title">
+                                                                <p>Select skill level(s) required?</p>
+                                                            </div>
+                                                            <div class="section-group">
+                                                                <div class="row">
+                                                                    <!-- junior -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='BackendDev_jnNumber'>
+                                                                                        <input class="styled-checkbox" onchange="assignSkill(this)" id="BackendDev_jn-label" type="checkbox" value="" onclick="assignSkill(this, 'BackendDevJunior');">
+                                                                                        <label for="BackendDev_jn-label">Junior</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="inQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='BackendDevJunior' class="input-group-field" type="number" name="Back-End Developer['skills']['Junior']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="jnQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                    <!-- Intermediate -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='BackendDev_inNumber'>
+                                                                                        <input class="styled-checkbox" id="BackendDev_in-label" type="checkbox" value="value2" onclick="assignSkill(this, 'BackendDevIntermediate');">
+                                                                                        <label for="BackendDev_in-label">Intermediate</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="inQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='BackendDevIntermediate' class="input-group-field" type="number" name="Back-End Developer['skills']['Intermediate']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="inQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <!-- Senior -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='BackendDev_snNumber'>
+                                                                                        <input class="styled-checkbox" id="BackendDev_sn-label" type="checkbox" value="value2" onclick="assignSkill(this, 'BackendDevSenior');">
+                                                                                        <label for="BackendDev_sn-label">Senior</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="snQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='BackendDevSenior' class="input-group-field" type="number" name="Back-End Developer['skills']['Senior']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="snQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <!-- Lead -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='BackendDev_ldNumber'>
+                                                                                        <input class="styled-checkbox" id="BackendDev_ld-label" type="checkbox" value="value2" onclick="assignSkill(this, 'BackendDevLead');">
+                                                                                        <label for="BackendDev_ld-label">Lead</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="ldQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='BackendDevLead' class="input-group-field" type="number" name="Back-End Developer['skills']['Lead']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="ldQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <!-- unsure -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='BackendDev_blankNumber'>
+                                                                                        <input class="styled-checkbox" id="BackendDev_blank-label" type="checkbox" value="value2" onclick="assignSkill(this, 'BackendDevUnsure');">
+                                                                                        <label for="BackendDev_blank-label">Unsure</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="blankQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='BackendDevUnsure' class="input-group-field" type="number" name="Back-End Developer['skills']['Unsure']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="blankQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+                                                        <!-- section-2 -->
+                                                        <div class="col-md-12 text-left">
+                                                            <div class="section-title">
+                                                                <p>Duration of project?</p>
+                                                            </div>
+                                                            <div class="section-group">
+                                                                <div class="row">
+                                                                    <!-- junior -->
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">1 - 3 months
+                                                                            <input value="1 - 3 months" type="radio"  name="Back-End Developer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">3 - 6 months
+                                                                            <input type="radio" value="3 - 6 months"  name="Back-End Developer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">6 - 9 months
+                                                                            <input type="radio" value="6 - 9 months"  name="Back-End Developer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">9 - 12 months
+                                                                            <input type="radio" value="9 - 12 months" name="Back-End Developer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">>12 months
+                                                                            <input type="radio" value=">12 months" name="Back-End Developer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">unsure
+                                                                            <input type="radio" value="Unsure" name="Back-End Developer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="modal-footer">
+                                                        <button class="border-btn" type="button" data-dismiss="modal" name="button">Save Details</button>
+                                                        <!-- <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> -->
+                                                    </div>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="modal fade" id="QualityAsu" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title" id="myModalLabel">Resource Details</h4>
+
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                            </div>
+                                            <div class="modal-body">
+                                                    <div class="row">
+
+                                                        <!-- section-1 -->
+                                                        <div class="col-md-12 text-left">
+                                                            <div class="section-title">
+                                                                <p>Select skill level(s) required?</p>
+                                                            </div>
+                                                            <div class="section-group">
+                                                                <div class="row">
+                                                                    <!-- junior -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='QualityAsu_jnNumber'>
+                                                                                        <input class="styled-checkbox" onchange="assignSkill(this)" id="QualityAsu_jn-label" type="checkbox" value="value2" onclick="assignSkill(this, 'QualityAsuJunior');">
+                                                                                        <label for="QualityAsu_jn-label">Junior</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="inQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+
+                                                                                    <input id='QualityAsuJunior' class="input-group-field" type="number" name="Quality Assurance Engineer['skills']['Junior']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="jnQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                    <!-- Intermediate -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='QualityAsu_inNumber'>
+                                                                                        <input class="styled-checkbox" id="QualityAsu_in-label" type="checkbox" value="value2" onclick="assignSkill(this, 'QualityAsuIntermediate');">
+                                                                                        <label for="QualityAsu_in-label">Intermediate</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="inQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='QualityAsuIntermediate' class="input-group-field" type="number" name="Quality Assurance Engineer['skills']['Intermediate']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="inQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <!-- Senior -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='QualityAsu_snNumber'>
+                                                                                        <input class="styled-checkbox" id="QualityAsu_sn-label" type="checkbox" value="value2"  onclick="assignSkill(this, 'QualityAsuSenior');">
+                                                                                        <label for="QualityAsu_sn-label">Senior</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="snQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='QualityAsuSenior' class="input-group-field" type="number" name="Quality Assurance Engineer['skills']['Senior']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="snQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <!-- Lead -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='QualityAsu_ldNumber'>
+                                                                                        <input class="styled-checkbox" id="QualityAsu_ld-label" type="checkbox" value="value2" onclick="assignSkill(this, 'QualityAsuLead');">
+                                                                                        <label for="QualityAsu_ld-label">Lead</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="ldQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='QualityAsuLead' class="input-group-field" type="number" name="Quality Assurance Engineer['skills']['Lead']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="ldQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <!-- unsure -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='QualityAsu_blankNumber'>
+                                                                                        <input class="styled-checkbox" id="QualityAsu_blank-label" type="checkbox" value="value2" onclick="assignSkill(this, 'QualityAsuUnsure');">
+                                                                                        <label for="QualityAsu_blank-label">Unsure</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="blankQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='QualityAsuUnsure' class="input-group-field" type="number" name="Quality Assurance Engineer['skills']['Unsure']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="blankQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+                                                        <!-- section-2 -->
+                                                        <div class="col-md-12 text-left">
+                                                            <div class="section-title">
+                                                                <p>Duration of project?</p>
+                                                            </div>
+                                                            <div class="section-group">
+                                                                <div class="row">
+                                                                    <!-- junior -->
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">1 - 3 months
+                                                                            <input type="radio" value="1 - 3 months" name="Quality Assurance Engineer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">3 - 6 months
+                                                                            <input type="radio" value="3 - 6 months"  name="Quality Assurance Engineer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">6 - 9 months
+                                                                            <input type="radio" value="6 - 9 months" name="Quality Assurance Engineer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">9 - 12 months
+                                                                            <input type="radio" value="9 - 12 months" name="Quality Assurance Engineer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">>12 months
+                                                                            <input type="radio" value=">12 months" name="Quality Assurance Engineer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">unsure
+                                                                            <input type="radio" value="Unsure" name="Quality Assurance Engineer['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="modal-footer">
+                                                        <button class="border-btn" type="submit" data-dismiss="modal" name="button">Save Details</button>
+                                                        <!-- <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> -->
+                                                    </div>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="modal fade" id="PM" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title" id="myModalLabel">Resource Details</h4>
+
+                                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                            </div>
+                                            <div class="modal-body">
+                                                    <div class="row">
+
+                                                        <!-- section-1 -->
+                                                        <div class="col-md-12 text-left">
+                                                            <div class="section-title">
+                                                                <p>Select skill level(s) required?</p>
+                                                            </div>
+                                                            <div class="section-group">
+                                                                <div class="row">
+                                                                    <!-- junior -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='PM_jnNumber'>
+                                                                                        <input class="styled-checkbox" id="PM_jn-label" type="checkbox" value="value2" onclick="assignSkill(this, 'PMJunior');">
+                                                                                        <label for="PM_jn-label">Junior</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="inQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='PMJunior' class="input-group-field" type="number" name="Project Manager['skills']['Junior']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="jnQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                    <!-- Intermediate -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='PM_inNumber'>
+                                                                                        <input class="styled-checkbox" id="PM_in-label" type="checkbox" value="value2"  onclick="assignSkill(this, 'PMIntermediate');">
+                                                                                        <label for="PM_in-label">Intermediate</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="inQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='PMIntermediate' class="input-group-field" type="number" name="Project Manager['skills']['Intermediate']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="inQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <!-- Senior -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='PM_snNumber'>
+                                                                                        <input class="styled-checkbox" id="PM_sn-label" type="checkbox" value="value2" onclick="assignSkill(this, 'PMSenior');">
+                                                                                        <label for="PM_sn-label">Senior</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="snQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='PMSenior' class="input-group-field" type="number" name="Project Manager['skills']['Senior']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="snQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <!-- Lead -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='PM_ldNumber'>
+                                                                                        <input class="styled-checkbox" id="PM_ld-label" type="checkbox" value="value2" onclick="assignSkill(this, 'PMLead');">
+                                                                                        <label for="PM_ld-label">Lead</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="ldQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='PMLead' class="input-group-field" type="number" name="Project Manager['skills']['Lead']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="ldQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+
+                                                                    </div>
+
+                                                                    <!-- unsure -->
+                                                                    <div class="col-md-12 sm-card">
+                                                                        <div class="row">
+                                                                            <div class="col-lg-9 col-md-12">
+                                                                                <div class="chk-container-2">
+                                                                                    <label for='PM_blankNumber'>
+                                                                                        <input class="styled-checkbox" id="PM_blank-label" type="checkbox" value="value2" onclick="assignSkill(this, 'PMUnsure');">
+                                                                                        <label for="PM_blank-label">Unsure</label>
+                                                                                    </label>
+
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-lg-3 col-md-12 p-0 my-0">
+                                                                                <div class="input-group plus-minus-input">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="minus" data-field="blankQuantity">
+                                                                                            <i class="fa fa-minus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                    <input id='PMUnsure' class="input-group-field" type="number" name="Project Manager['skills']['Unsure']" value="0">
+                                                                                    <div class="input-group-button">
+                                                                                        <button type="button" class="button hollow circle" data-quantity="plus" data-field="blankQuantity">
+                                                                                            <i class="fa fa-plus" aria-hidden="true"></i>
+                                                                                        </button>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+                                                        <!-- section-2 -->
+                                                        <div class="col-md-12 text-left">
+                                                            <div class="section-title">
+                                                                <p>Duration of project?</p>
+                                                            </div>
+                                                            <div class="section-group">
+                                                                <div class="row">
+                                                                    <!-- junior -->
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">1 - 3 months
+                                                                            <input type="radio" value="1 - 3 months"  name="Project Manager['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">3 - 6 months
+                                                                            <input type="radio" value="3 - 6 months"  name="Project Manager['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">6 - 9 months
+                                                                            <input type="radio" value="6 - 9 months" name="Project Manager['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">9 - 12 months
+                                                                            <input type="radio" value="9 - 12 months" name="Project Manager['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">>12 months
+                                                                            <input type="radio" value=">12 months" name="Project Manager['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                    <div class="col-lg-4 col-md-12">
+                                                                        <label class="chk-container">unsure
+                                                                            <input type="radio" value="Unsure" name="Project Manager['Duration']">
+                                                                            <span class="checkmark"></span>
+                                                                        </label>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="modal-footer">
+                                                        <button class="border-btn" type="submit" data-dismiss="modal" name="button">Save Details</button>
+                                                        <!-- <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> -->
+                                                    </div>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                    <input class="juniorSkillInput" value="" hidden>
+                                    <div class="row">
+
+                                        <!-- section-1 -->
+
+                                        <div class="col-md-12 text-left">
+                                            <div class="section-title">
+                                                <p>What resource you need?</p>
+                                            </div>
+
+                                            <div class="section-group">
+                                                <div class="row">
+                                                    <!-- UD -->
+                                                    <div class="col-lg-4 col-md-12">
+                                                        <div  class="chk-container-2">
+
+                                                            <input  class="styled-checkbox" name="UIUXInput" id="udresource" type="checkbox"  data-toggle="modal" data-target="#UIUXDesign">
+                                                            <label for="udresource">UI/UX Designer</label>
+                                                        </div>
+                                                    </div>
+                                                    <input id="currentChecked" value="" hidden>
+                                                    <!-- MD -->
+                                                    <div class="col-lg-4 col-md-12">
+                                                        <div class="chk-container-2">
+                                                            <input class="styled-checkbox" id="mdresource" type="checkbox" name="MobileDevInput" data-toggle="modal" data-target="#MobileDev">
+                                                            <label for="mdresource">Mobile Developer</label>
+                                                        </div>
+                                                    </div>
+
+                                                    <!-- BD -->
+                                                    <div class="col-lg-4 col-md-12">
+                                                        <div class="chk-container-2">
+                                                            <input class="styled-checkbox" id="bdresource" type="checkbox" name="BackendInput" data-toggle="modal" data-target="#BackendDev">
+                                                            <label for="bdresource">Back-End Developer</label>
+                                                        </div>
+                                                    </div>
+
+
+                                                    <!-- QA -->
+                                                    <div class="col-lg-4 col-md-12">
+                                                        <div class="chk-container-2">
+                                                            <input class="styled-checkbox" id="qaresource" type="checkbox" name="QAEngineerInput"  data-toggle="modal" data-target="#QualityAsu">
+                                                            <label for="qaresource">Quality Assurance Engineer</label>
+
+                                                        </div>
+                                                    </div>
+
+                                                    <!-- PM -->
+                                                    <div class="col-lg-4 col-md-12">
+                                                        <div class="chk-container-2">
+                                                            <input class="styled-checkbox" id="pmresource" type="checkbox" name="ProjectManagerInput" data-toggle="modal" data-target="#PM">
+                                                            <label for="pmresource">Project Manager</label>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-4 col-md-12">
+                                                        <div class="chk-container-2">
+                                                            <input class="styled-checkbox" id="othersresource" type="checkbox" value="value2" data-toggle="modal" data-target="#myModal">
+                                                            <label for="others-resource">Others</label>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <!-- section-2 -->
+
+                                        <div class="col-md-12 text-left">
+                                            <div class="section-title">
+                                                <p>Personal Message</p>
+                                            </div>
+                                            <div class="section-group">
+                                                <div class="row">
+                                                    <div class="col-md-6">
+                              <span class="has-float-label">
+                                  <input id="fname" required type="text" name="full_name" value="" class="form-control" placeholder="e.g. John Doe"/>
+
+                                <label for="fname">First Name</label>
+                              </span>
+                                                    </div>
+                                                    <div class="col-md-6">
+                              <span class="has-float-label">
+                                <input type="text" id="cname" value="" name="company_name" class="form-control" placeholder="e.g. INITS Limited" />
+                                <label for="cname">Company Name</label>
+                              </span>
+                                                    </div>
+
+                                                    <div class="col-md-6">
+                              <span class="has-float-label">
+                                <input type="text" id="email" name="email" value="" class="form-control" placeholder="Enter valid email address">
+                                <label for="email">Email Address</label>
+                              </span>
+                                                    </div>
+
+                                                    <div class="col-md-6">
+                                                            <span class="has-float-label">
+                                                              <input type="tel" onkeyup="process(event)"   id="phone_number" required name="phone_number" value="+234 " class="form-control" placeholder="Enter a valid Phone Number">
+                                                              <label for="pnum">Contact Number</label>
+                                                            </span>
+                                                        <small class="text-success alerts-success" style="display: none"></small>
+                                                        <small class=" text-danger alert-error" style="display: none"></small>
+                                                        <input id="phone_input" name="phone" value="" hidden>
+
+                                                    </div>
+
+                                                    <!-- <div class="col-md-12">
+                                                    <span class="has-float-label">
+                                                      <input type="number" id="hNum" value="" class="form-control" placeholder="e.g 10">
+                                                      <label for="hNum">Total number of Hires</label>
+                                                    </span>
+                                                  </div> -->
+
+
+                                                    <!-- <div class="col-md-12">
+                                                    <span class="has-float-label">
+                                                      <textarea name="name" rows="20" class="form-control text-box" placeholder="Describe your staffing / resource need"></textarea>
+                                                      <label for="msg">Staffing/Resource Need</label>
+                                                    </span>
+                                                  </div> -->
+
+                                                    <div class="col-md-12">
+                                                          <span class="has-float-label">
+                                                            <textarea name="additional_message" rows="10" class="form-control text-box" placeholder="Enter Additional Message…"></textarea>
+                                                            <label for="msg">Additional Message</label>
+                                                          </span>
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                    <div class="chk-container-2 tnc">
+                                        <input class="styled-checkbox" name="terms_agreement" id="tnc-chk" type="checkbox" value="value2">
+                                        <label for="tnc-chk">
+                                            I acknowledge that by submitting this form, it shall be deemed that I agree to the <a href="privacy-policy">Privacy Policy</a>
+                                        </label>
+                                    </div>
+
+                                        <!-- Recaptcha -->
+                                        <div class="form-group ">
+                                            <div class="g-recaptcha m-auto" data-sitekey="6Ld2YoEaAAAAADeQfo2dwGoAlRcRRe9xZttgXJYM"></div>
+                                        </div>
+
+
+                                    <button style="cursor: pointer" class="border-btn" type="submit" name="button">submit</button>
+
+                                </form>
+
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            </div>
+
+
+        </section>
+
+
+
+        <!-- reachout -->
+        <section class="contentBlock1 text-center wow fadeIn" data-wow-delay="0.1s" id="testimonials">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 mx-auto cta-block">
+                        <h2>Do you have a dream?</h2>
+                        <p>Allow us bring your dreams to life. We are ready to listen to your need and proffer solutions in different areas of technology and business</p>
+                        <div class="mt-5">
+                            <a class="link link--arrowed" href="contact">
+
+                                <img class="wow pulse mr-2" data-wow-iteration="infinite" data-wow-duration="1s" src="website/assets/icons/arrowRightGreen.svg" alt="">
+                                Get In Touch</a>
+                        </div>
+                    </div>
+                </div>
+        </section>
+
+
+
+    </main>
+
+    <div class="pageFooterAreaWrap position-relative text-center text-sm-left" data-parallax="scroll" data-image-src="images/footer-image.png">
+        <div class="position-relative pageFooterWrapHolder">
+            <div class="container">
+                <footer id="pageFooter" class="position-relative">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-12">
+                            <div class="logo">
+                                <a href="index.html">
+                                    <img src="website/assets/images/logo.png" alt="INITS Limited">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-9 col-md-12">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>OFFICIAL HOURS</h3>
+                                        <ul class="list-unstyled">
+                                            <li>09:00am | 05:00pm</li>
+                                            <li>Monday to Friday</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>Contact</h3>
+                                        <ul class="list-unstyled">
+                                            <li><a href="mailto:info@initsng.com">info@initsng.com</a></li>
+                                            <li><a onclick="ga('send', 'event', { eventCategory: 'Contact', eventAction: 'Call', eventLabel: 'Mobile Button'});" href="tel:+234 708 067 2012">+234 708 067 2012</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>Address</h3>
+                                        <ul class="list-unstyled">
+                                            <li>
+                                                <p>16 Majaro Street,
+                                                    <br> Onike - Yaba,
+                                                    <br> Lagos, Nigeria</p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>Quick Links</h3>
+                            
+                                        <ul class="list-unstyled">
+                                            <li><a href="faq">FAQ</a></li>
+                                            <li><a href="terms-and-conditions">Terms & Conditions</a></li>
+                                            <li><a href="privacy-policy">Privacy Policy</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </footer>
+            </div>
+            <hr class="separator">
+            <div class="container">
+                <div class="copyrightWrap">
+                    <p>Copyright &copy;2022 INITS, All Rights Reserved.</p>
+                </div>
+                <!-- compliance icon added -->
+                <div style="position:fixed;bottom:5px;right:0;padding:5px 60px 5px 15px; background:rgba(246, 246, 240, 0)">
+                    <img style="max-height:50px;"src="website/assets/images/NDPRlogo.png" alt="NDPR Audit Compliant 2022">
+                </div>
+                <!-- compliance icon end -->
+            </div>
+        </div>
+    </div>
+    <!-- pageFooterAreaWrap -->
+    <div class="modal fade" id="pwdChanged" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog mini" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title text-left">Update Password</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form class="pwdChange" id="pwdChange" action="https://initsng.com/applicant/change-password" method="post">
+                    <input type="hidden" name="_token" value="Suq7IjhFOr0aNFhj3ZCeInsbJyUr7PAZj7XqsmbJ">                    <div class="modal-body">
+                                                                                                                                <div class="row">
+                                <div class="col-md-12">
+                                    <span class="has-float-label">
+                                      <input type="password" id="cPWD" name="old_password" class="form-control" placeholder="&nbsp;" required />
+                                      <label for="cPWD">Current Password</label>
+                                    </span>
+                                    <small style="position: absolute; bottom: 10px; font-family: 'Roboto', sans-serif; font-size: 10px; font-weight: 300" id="oPASSErr" class="text-danger"></small>
+
+                                </div>
+                                <div class="col-md-12">
+                                    <span class="has-float-label">
+                                      <input type="password" id="nPWD" minlength="8" name="new_password" class="form-control" placeholder="&nbsp;" required />
+                                      <label for="nPWD">New Password</label>
+                                    </span>
+                                    <small style="position: absolute; bottom: 10px; font-family: 'Roboto', sans-serif; font-size: 10px; font-weight: 300" class="text-danger" id="nPASSErr"></small>
+
+                                </div>
+                                <div class="col-md-12">
+                                    <span class="has-float-label">
+                                      <input type="password" id="cnPWD" minlength="8" name="new_password_confirmation" class="form-control" placeholder="&nbsp;" required />
+                                      <label for="cnPWD">Confirm New Password</label>
+                                    </span>
+                                    <small style="position: absolute; bottom: 10px; font-family: 'Roboto', sans-serif; font-size: 10px; font-weight: 300" class="text-danger" id="cPASSErr"></small>
+
+                                </div>
+                            </div>
+
+                    </div>
+                    <div class="modal-footer p-auto">
+                        <button type="button" id="setNewPassBtn" class="btn-outline">Save Changes</button>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+
+    
+</div>
+<span id="back-top" class="text-center rounded-circle fas fa-angle-up"></span>
+<div id="loader" class="loader-holder">
+    <div class="block">
+        <div class="dot white"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+    </div>
+</div>
+</div>
+<!-- include jQuery library -->
+<script src="website/js/jquery.min.js"></script>
+<script src="website/js/popper.min.js"></script>
+
+<script src="website/js/jquery-3.3.1.min.js"></script>
+<!-- include Plugins JavaScript -->
+<script src="website/js/plugins.js"></script>
+<!-- include custom JavaScript -->
+<script src="website/js/jquery.main.js"></script>
+<script src="website/js/wow.min.js"></script>
+<script src="website/js/main.js"></script>
+<script src="website/js/datatables.min.js"></script>
+
+
+<script>
+    var old_pass_checker = false;
+    $('#setNewPassBtn').click(function(){
+        var old_pass = $('#cPWD').val();
+        var new_pass = $('#nPWD').val();
+        var new_pass_conf = $('#cnPWD').val();
+        old_pass_checker = true;
+        if(old_pass.length < 3) {
+            $('#oPASSErr').html('Please provide your current password.');
+            return old_pass_checker = false;
+        }
+        confirmOldPassword(old_pass);
+
+        $('#nPASSErr').html('');
+        $('#cPASSErr').html('');
+
+        if(new_pass.length < 8) {
+            $('#nPASSErr').html('Your new password must have at least 8 character.');
+            old_pass_checker = false;
+        }else if(new_pass !== new_pass_conf) {
+            $('#cPASSErr').html('The password confirmation does not match.');
+            old_pass_checker = false;
+
+        }
+        if(old_pass_checker == true){
+            return $('#pwdChange').submit();
+        }
+    });
+
+    function confirmOldPassword(password)
+    {
+        $.ajax({
+            url: "https://initsng.com/applicant/password-confirmation",
+            method: "POST",
+            dataType: 'json',
+            data: {password: password, _token: "Suq7IjhFOr0aNFhj3ZCeInsbJyUr7PAZj7XqsmbJ"}
+        }).done(function (result) {
+            let data = result.status;
+            console.log(data);
+            old_pass_checker = true;
+            $('#oPASSErr').html('');
+            if(data === false){
+                $('#oPASSErr').html('['+ password +'] does not match your current password.');
+                old_pass_checker = false;
+
+
+            }
+            return true;
+        }).fail(function (err) {
+            console.error(err);
+            return false;
+        });
+    }
+</script>
+<script>
+
+
+    $(document).ready(function() {
+
+
+
+        function offSetManager() {
+
+            var yOffset = 0;
+            var currYOffSet = window.pageYOffset;
+
+            if (yOffset < currYOffSet) {
+                myNavBar.add();
+            } else if (currYOffSet == yOffset) {
+                myNavBar.remove();
+            }
+        }
+        window.onscroll = function(e) {
+            offSetManager();
+        }
+        offSetManager();
+    });
+</script>
+
+
+<script>
+    $('#slick-slider').slick({
+        draggable: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        touchThreshold: 1000,
+        dots: false,
+        infinite: true,
+        arrows: false,
+        speed: 300,
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: true
+            }
+        },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+        ]
+    });
+    // Custom carousel nav
+    $('.carousel-prev').click(function() {
+        $(this).parent().find('#slick-slider').slick('slickPrev');
+    });
+
+    $('.carousel-next').click(function(e) {
+        e.preventDefault();
+        $(this).parent().find('#slick-slider').slick('slickNext');
+    });
+</script>
+<script>
+    $('#slick-slider-2').slick({
+        draggable: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        touchThreshold: 1000,
+        dots: false,
+        infinite: true,
+        arrows: false,
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: false
+            }
+        },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+        ]
+    });
+    // Custom carousel nav
+    $('.carousel-prev').click(function() {
+        $(this).parent().find('#slick-slider-2').slick('slickPrev');
+    });
+
+    $('.carousel-next').click(function(e) {
+        e.preventDefault();
+        $(this).parent().find('#slick-slider-2').slick('slickNext');
+    });
+    function returnBack(url)
+    {
+        window.location = url;
+    }
+</script>
+    <script src="https://initsng.com/website/js/outsourcing_form.js" rel="script" type="text/javascript">
+    </script>
+    <script>
+        function  assignSkill(instance, inputID) {
+            var ele = document.getElementById(inputID);
+            ele.focus();
+            ele.value = '0';
+            if(instance.checked){
+                ele.focus();
+                var initVal = ele.value;
+                ele.value = Number(initVal) + 1;
+            }
+        }
+        $('.hollow').click(function () {
+            var iniVal = $(this).closest('.input-group').find('input').val();
+            if($(this).attr('data-quantity') == 'minus' && Number(iniVal) > 0){
+                $(this).closest('.input-group').find('input').val(Number(iniVal) - 1);
+            }
+            if($(this).attr('data-quantity') == 'plus'){
+                $(this).closest('.input-group').find('input').val(Number(iniVal) + 1);
+            }
+        });
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+
+    <script src="phone_inputs/build/js/intlTelInput.js"></script>
+
+    <script>
+        var input = document.querySelector("#phone_number");
+        const phoneInput = window.intlTelInput(input, {
+            // allowDropdown: false,
+            // autoHideDialCode: false,
+            // autoPlaceholder: "off",
+            // dropdownContainer: document.body,
+            // excludeCountries: ["us"],
+            // formatOnDisplay: true,
+            // geoIpLookup: function(callback) {
+            //   $.get("http://ipinfo.io", function() {}, "jsonp").always(function(resp) {
+            //     var countryCode = (resp && resp.country) ? resp.country : "";
+            //     callback(countryCode);
+            //   });
+            // },
+            // hiddenInput: "full_number",
+            // initialCountry: "auto",
+            // localizedCountries: { 'de': 'Deutschland' },
+            nationalMode: true,
+            // onlyCountries: ['us', 'gb', 'ch', 'ca', 'do'],
+            placeholderNumberType: "MOBILE",
+            // preferredCountries: ['cn', 'jp'],
+            separateDialCode: true,
+            utilsScript: "https://initsng.com/phone_inputs/build/js/utils.js",
+        });
+        const info = document.querySelector(".alerts-success");
+        const error = document.querySelector(".alert-error");
+        function process(event) {
+            // event.preventDefault();
+
+            const phoneNumber = phoneInput.getNumber();
+
+            info.style.display = "none";
+            error.style.display = "none";
+
+            if (!phoneInput.isValidNumber()) {
+                error.style.display = "";
+                error.innerHTML = `<i class="fa fa-times-circle"></i> Invalid phone number.`;
+                event.preventDefault();
+                return false;
+            }
+            info.style.display = "";
+            info.innerHTML = `<i class="fa fa-check-circle"></i> Valid phone number`;
+            var country_code = phoneInput.getSelectedCountryData()["dialCode"];
+            phoneInput.setNumber(phoneNumber);
+            var contact_number = $('#phone_number').val();
+            var contact_markup = '+' + country_code + ' ' + contact_number;
+
+            $('#phone_input').val(contact_markup);
+            return true;
+        }
+        input.addEventListener("close:countrydropdown",function() {
+            process(event);
+        });
+    </script>
+
+</body>
+
+
+
+
+</html>

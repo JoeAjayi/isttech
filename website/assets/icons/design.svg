@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 5 Copy</title>
+    <defs>
+        <circle id="path-1" cx="25" cy="25" r="25"></circle>
+    </defs>
+    <g id="themed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="service-page-2" transform="translate(-693.000000, -919.000000)">
+            <g id="Group-5" transform="translate(150.000000, 867.000000)">
+                <g id="Group-5-Copy" transform="translate(543.000000, 52.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill-opacity="0" fill="#D8D8D8" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)" id="Combined-Shape" stroke="#303030" stroke-dasharray="4.285714318675379" stroke-linecap="round" stroke-width="1.42857143">
+                        <g transform="translate(25.000000, 25.500000) rotate(-30.000000) translate(-25.000000, -25.500000) translate(1.000000, 3.000000)">
+                            <path d="M-4.28812541e-12,0.714285714 L46.4213748,0.714285714 M-4.93827201e-12,11.4285714 L46.4213748,11.4285714 M-4.93827201e-12,22.1428571 L46.4213748,22.1428571 M-4.93827201e-12,32.8571429 L46.4213748,32.8571429 M-4.93827201e-12,43.5714286 L46.4213748,43.5714286"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

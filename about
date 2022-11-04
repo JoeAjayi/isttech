@@ -1,0 +1,959 @@
+<!--
+****************** ************ **************************** ****************************** ************* **************** ************* *********
+||&&========= ========== ======================= ================== ====== ============= ============= ============= ==================== ********
+||                                                                                                                                          *****
+||  ███████ ████████        ██ ███    ██        ▄▓██████-███████▄         ,▄▄▓███████▓▄▄,        ╓▄ ██████ ██████                            ***
+||         ██               ██   ██   ██                ██                       ██                █                                         **
+||         ██               ██    ██  ██                ██                       ██                 ██                                       *
+||         ██               ██     ██ ██                ██                       ██                  ██████████ █                            **
+||         ██               ██      ████                ██                       ██                            ██                            ***
+||         ██               ██       ███                ██                       ██                            ██                            ****
+||  ████████████████        ██        ██        ▄▓███████████████▄               ██                █████└╙╓▄╙└███                            *****
+||                                                                                                                                           ******
+****██*******█ █*****█ █*█ ****** ****** ********* █*****█ ██*██****███**██ █*************█ █**************█ █**************█ ************* ********
+
+=========================================================
+* INITS WEBSITE - INDEXED
+=========================================================
+* Copyright  INITS LIMITED (https://www.initsng.com)
+* Coded by BLESSING AJALA | SOFTWARE ENGINEER 🤠
+========================================================
+
+-->
+<!DOCTYPE html>
+<html lang="en" data-textdirection="ltr">
+
+<head>
+    <!-- set the encoding of your site -->
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <!-- set the viewport width and initial-scale on mobile devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- set the HandheldFriendly -->
+    <meta name="HandheldFriendly" content="True">
+    <!-- set the Keyword -->
+    <meta name="keywords" content="INITS Limited - IT Company">
+
+    <meta name="description" content="INITS Limited is one of Africa’s leading software development and IT consulting company,
+    incorporated in 2009 with offices located in Nigeria, Nairobi and New York. We offer innovative custom-made software
+    development solutions, interactive designs, winsome web and mobile applications and stellar human resources that meet the needs of our diverse clientèle.">
+    <meta name="author" content="INITS Limited(http://initsng.com)">
+    <meta property="og:title" content="INITS LIMITED">
+    <meta property="og:description" content="INITS Limited is one of Africa’s leading software development and IT consulting company,
+    incorporated in 2009 with offices located in Nigeria, Nairobi and New York. We offer innovative custom-made software
+    development solutions, interactive designs, winsome web and mobile applications and stellar human resources that meet the needs of our diverse clientèle.">
+
+    <meta property="og:image" content="https://initsng.com/assets/img/logo/favicon.jpg">
+    <meta property="og:url" content="www.initsng.com">
+    <!-- include poppins google font cdn link -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,600,600i,700,700i%7CRoboto:400,400i,500,500i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;500;600;700;800&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+    <!-- set the page title -->
+    <title>INITS Limited |  Innovating Through Technology</title> <!-- include the site bootstrap stylesheet -->
+    <link rel="stylesheet" href="website/css/bootstrap.css">
+    <link rel="stylesheet" href="website/css/bootstrap-float-label.css">
+    <!-- include the site Fontsicon stylesheet -->
+    <link rel="stylesheet" href="https://initsng.com/website/css/fontsicon.css">
+
+    <!-- include the site Plugins stylesheet -->
+    <link rel="stylesheet" href="https://initsng.com/website/css/plugins.css">
+    <link rel="stylesheet" href="website/css/jquery-ui.min.css">
+    <link rel="stylesheet" href="website/css/animate.css">
+        <link rel="stylesheet" href="website/css/gallery.css">
+
+
+
+    <!-- include the site stylesheet -->
+    <link rel="stylesheet" href="website/css/all.css">
+    <link rel="stylesheet" href="website/css/style.css">
+    <link rel="stylesheet" href="website/css/main.css">
+    <link rel="stylesheet" href="website/css/colors.css">
+
+    <!-- include the site responsive stylesheet -->
+    <link rel="stylesheet" href="website/css/responsive.css">
+
+    <link href="assets/img/logo/favicon.jpg" type="image/x-icon" rel="icon" />
+    <link href="assets/img/logo/favicon.jpg" type="image/x-icon" rel="shortcut icon" />
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="website/assets/icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="website/assets/icons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="website/assets/icons/favicon-16x16.png" />
+    <link rel="mask-icon" href="website/assets/icons/safari-pinned-tab.svg" color="#5bbad5" />
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    
+</head>
+
+<body>
+<!-- pageWrapper -->
+<div id="pageWrapper">
+    <!-- pageHeader -->
+    <header id="pageHeader">
+        <!-- pageHeaderTopBar -->
+        <div class="pageHeaderTopBar bg-light d-none d-lg-block">
+            <div class="container clearfix position-relative">
+                <div class="row">
+                    <div class="col-3 col-lg-6 my-auto">
+                        <!-- topBarContactList -->
+                        <ul class="list-unstyled topBarContactList align-items-center mb-0 d-none d-md-flex">
+                            <li>
+                                <a href="tel:+234 708 067 2012">
+                                    <span class="d-none d-lg-inline">Phone: <a onclick="ga('send', 'event', { eventCategory: 'Contact', eventAction: 'Call', eventLabel: 'Mobile Button'});" href="tel:+234 708 067 2012">+234 708 067 2012</a></span>
+                                </a>
+                            </li>
+                            <li class="muted">|</li>
+
+                            <li>
+                                <a href="about#">
+                                    <span class="d-none d-lg-inline">Email: <a href="mailto:info@initsng.com">info@initsng.com</a></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-9 col-lg-6 col-xs-12 my-auto d-flex justify-content-end position-static">
+
+                        <!-- socialLinksList -->
+
+
+
+
+
+
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="headerFixer">
+            <div class="bg-white">
+                <!-- pageHeaderHolder -->
+                <div class="container clearfix pageHeaderHolder">
+                    <!-- logo -->
+                    <div class="logo alignleft">
+                        <a href="index.html">
+                            <img src="website/assets/images/logo.png" alt="INITS Limited">
+                        </a>
+                    </div>
+                    <!-- pageNavHolder -->
+                    <div class="pageNavHolder alignright d-flex justify-content-end align-items-md-start">
+
+                        <!-- pageNav navbar -->
+                        <nav id="pageNav" class="navbar navbar-expand-lg order-lg-1">
+                            <!-- pageMainNavOpener -->
+                            <button class="navbar-toggler pageMainNavOpener" type="button" data-toggle="collapse" data-target="#pageMainNavCollapse" aria-controls="pageMainNavCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                            <!-- mainNavCollapse navbar collapse -->
+                            <div class="collapse navbar-collapse mainNavCollapse" id="pageMainNavCollapse">
+                                <!-- pageMainNavigation navbar nav -->
+                                <ul class="navbar-nav pageMainNavigation justify-content-md-end">
+
+                                    <li class="nav-item  dropdown">
+                                        <a style="cursor: not-allowed;" class="nav-link fwMedium text-capitalize" href="index.html">Home</a>
+
+                                    </li>
+                                    <li class="nav-item active  dropdown">
+                                        <a  disabled class="nav-link fwMedium text-capitalize" href="about">About Us</a>
+
+                                    </li>
+                                    <li class="nav-item   dropdown">
+                                        <a class="nav-link fwMedium text-capitalize" href="index.html#services">Services</a>
+
+                                    </li>
+
+                                    <li class="nav-item  dropdown">
+                                        <a class="nav-link fwMedium text-capitalize" href="portfolio">Portfolio</a>
+
+                                    </li>
+
+                                                                            <li class="nav-item  dropdown">
+                                            <a class="nav-link fwMedium text-capitalize" href="career">Career</a>
+                                        </li>
+                                                                                                            <li class="nav-item ">
+                                        <a class="nav-btn fwMedium text-capitalize" href="contact">Contact</a>
+
+                                    </li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    
+    <main>
+        <!-- videoBlock -->
+        <section class="w-100 videoHeader text-center text-white">
+            <!-- video -->
+
+            <header>
+                <div class="overlay-2"></div>
+                <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                    <source src="website/assets/video/silent-video.mp4" type="video/mp4">
+                </video>
+                <div class="container h-100 w-100 mx-auto">
+                    <div class="row about-video-text">
+                        <div class="col-md-12 mb-5">
+                            <p class="text-thin">Innovating through technology, since 2009</p>
+                        </div>
+                        <div class="col-md-12 mt-5">
+                            <a class="scroll-down-2 wow bounce" data-wow-iteration="infinite" data-wow-duration="3s" href="about#ourStory">
+                                <img class="box-2 " src="website/assets/icons/scroll-2.svg" alt="">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <!-- video end -->
+        </section>
+
+        <!-- Our Story -->
+        <section id="ourStory" class="wow" data-wow-delay="0.1s">
+            <div class="contentBlock text-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-10 mx-auto">
+                            <div class="headingHead wow fadeInUp mb-0" data-wow-delay="0.1s">
+                                <!-- blockH -->
+                                <h2 class="text-capitalize blockH hTitle mt-0">Our Story</h2>
+
+                                <p>
+                                    INITS Limited is one of Africa’s leading software development and IT consulting company, incorporated in 2009 with offices located in Nigeria, Nairobi, Kenya and Delaware, United States.
+                                    We offer innovative custom-made software development solutions, interactive designs,
+                                    winsome web and mobile applications and stellar human resources that meet the needs of our diverse clientèle. <br><br>
+
+                                    We use a revolutionary design-driven and meticulous approach at delivering digital solutions and services that are anchored
+                                    on in-depth product/project research, robust marketing and strategic service philosophy.<br><br>
+
+                                    We are known for adhering to project scopes, quality deliverables and prompt feedback, with a dedicated team of savvy
+                                    professionals articulate in software design & development for mobile and web technologies.
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- mission/vision satetment -->
+        <section class="contentBlock1 text-center wow fadeIn" data-wow-delay="0.1s" id="testimonials">
+            <div class="row">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 mx-auto my-4">
+                            <div class="row">
+                                <div class="col-md-7 p-2 d-flex wow slideInLeft" data-wow-delay="0.4s">
+                                    <div class="text-left VMstatement">
+                                        <img src="website/assets/icons/mission.svg" alt="" class="mb-4">
+                                        <h2>Our Mission</h2>
+                                        <p>
+                                            We strive to offer our clients the best-in-class technical and business solutions that are timely, innovative, practical and sustainable.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-5 p-2 d-none d-lg-block wow slideInDown" data-wow-delay="0.4s">
+                                    <div class="imgBg">
+                                        <img src="website/assets/gallery/consulting.jpg" alt="">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-5 p-2 d-flex wow slideInLeft" data-wow-delay="0.4s">
+                                    <div class="imgBg">
+                                        <img src="website/assets/gallery/mixGroup.jpg" alt="" class="w-100">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-7 p-2 d-flex wow slideInRight" data-wow-delay="0.4s">
+                                    <div class="text-left VMstatement-2">
+                                        <img src="website/assets/icons/white-shake.svg" alt="" class="mb-4">
+                                        <h2>Our Vision</h2>
+                                        <p>
+                                            To be in the top five internationally renowned corporations, by implementing and supporting critical technology-based solutions across Africa.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- <div class="text-left">
+                      <a href="career-empty.html">See Empty State</a>
+                    </div> -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Our Story -->
+        <section id="ourStory" class="wow" data-wow-delay="0.1s">
+            <div class="contentBlock text-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-10 mx-auto">
+                            <div class="headingHead wow fadeInUp mb-0" data-wow-delay="0.1s">
+                                <!-- blockH -->
+                                <p class="mb-0">
+                                    Furthermore, we have a talent outsourcing platform with a pool of top-rated personnels to cater to your project from research and design,
+                                    through development and implementation all recruited through an exhaustive process.<br><br>
+
+                                    Our resource personnel are articulate, analytical, and understand the nuances of each client’s business and project
+                                    scope with a focus for quality and timely delivery.<br><br>
+
+                                    Because of our continued quest for excellence in service delivery, we are constantly
+                                    adapting to newer technologies and innovations and have evolved into a Zestful firm that offers robust Technical Enterprise solutions.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- gallery -->
+        <section class="wow" id="gallery">
+            <div class="contentBlock4 servicesBlock text-center ">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-10 mx-auto">
+                            <div class="headingHead wow fadeInUp" data-wow-delay="0.1s">
+                                <!-- blockH -->
+                                <h2 class="text-capitalize blockH hTitle">The INITS Team</h2>
+
+                                <p class="mb-0">Over the last six years, we have quietly grown from a two-man (founders only)
+                                    technology startup into a global competitive company with more than 40 full-time staff and up to 200
+                                    additional contract/resource personnels of varying ethnic/religious backgrounds and skill sets.<br><br>
+
+                                    We believe strongly in our capacity to help businesses and organisations meet their needs, using the solutions we build together, involving them every step of the way.
+                                    <br>A peep at some of our people…
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tz-gallery wow">
+                        <ul>
+                            <li class="profile-card wow bounceInLeft" style="background:white;">
+                                <div class="front">
+                                    <div class="picture" style="background-image: url('website/assets/gallery/rt.jpg');"></div>
+                                    <h2 class="title">Ronke</h2>
+                                    <p class="position">Management</p>
+                                    <p class="sub-title">I set strategic goals & objectives, monitor performance, direct and control the all business operations.</p>
+                                </div>
+                                <div class="back">
+                                    <div class="full-photo" style="background-image: url('website/assets/gallery/rt-2.jpg');">
+                                        <div class="descriptionWrap">
+                                            <h4>About Me</h4>
+                                            <p>I am the “enabler” in chief, constantly rooting for the success of our clients. I’m passionate about getting more women not only in technology but in leadership roles as well.</p>
+
+                                            <h4>Hobbies</h4>
+                                            <p class="mb-0">Quality time with family, Watching Football, Reading and Building Construction.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="profile-card wow bounceInDown" style="background:white;">
+                                <div class="front">
+                                    <div class="picture" style="background-image: url('website/assets/gallery/ft.jpg');"></div>
+                                    <h2 class="title">Femi</h2>
+                                    <p class="position">Technology</p>
+                                    <p class="sub-title">I oversee the development and dissemination of technology as well as direct and controls all IT-Operations.</p>
+                                </div>
+                                <div class="back">
+                                    <div class="full-photo" style="background-image: url('website/assets/gallery/ft-2.jpg');">
+                                        <div class="descriptionWrap">
+                                            <h4>About Me</h4>
+                                            <p>I am focused on creating and supporting innovative and useful solutions, especially those that are mission-critical.
+                                                I am a firm believer in growing talents, supporting my ecosystem and giving back to my society as a whole.</p>
+
+                                            <h4>Hobbies</h4>
+                                            <p class="mb-0">I love science experiments!</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="profile-card wow bounceInRight" style="background:white;">
+                                <div class="front">
+                                    <div class="picture" style="background-image: url('website/assets/gallery/yd.jpg');"></div>
+                                    <h2 class="title">Yemi</h2>
+                                    <p class="position">People</p>
+                                    <p class="sub-title">I am in charge of planning, implementing, managing people relations and overseeing departmental functions.</p>
+                                </div>
+                                <div class="back">
+                                    <div class="full-photo" style="background-image: url('website/assets/gallery/yd-2.jpg');">
+                                        <div class="descriptionWrap">
+                                            <h4>About Me</h4>
+                                            <p>I'm a part of the HR team and that makes me the most loved and least loved at the same time. I enjoy working with people who are as dedicated and eager to succeed as myself. </p>
+
+                                            <h4>Hobbies</h4>
+                                            <p class="mb-0">Formula 1 racing, Football and Travelling.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+
+                            <li class="profile-card wow bounceInDown" style="background:white;">
+                                <div class="front">
+                                    <div class="picture" style="background-image: url('website/assets/gallery/fi.jpg');"></div>
+                                    <h2 class="title">Frank</h2>
+                                    <p class="position">Projects</p>
+                                    <p class="sub-title">I plan, organise, and direct the completion of projects, ensuring they are delivered on time, within budget, and scope.</p>
+                                </div>
+                                <div class="back">
+                                    <div class="full-photo" style="background-image: url('website/assets/gallery/fi-2.jpg');">
+                                        <div class="descriptionWrap">
+                                            <h4>About Me</h4>
+                                            <p>
+                                                I am the "Fun Parent" in the workplace. I am not a fan of the conventional methods of achieving things and always find fun in what I do.
+                                            </p>
+
+                                            <h4>Hobbies</h4>
+                                            <p class="mb-0">
+                                                Watching & Playing football, Video Games, Song Writing and Making magic with photoshop.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="profile-card wow bounceInDown" style="background:white;">
+                                <div class="front">
+                                    <div class="picture" style="background-image: url('website/assets/gallery/kk.jpg');"></div>
+                                    <h2 class="title">Kemi</h2>
+                                    <p class="position">Accounts</p>
+                                    <p class="sub-title">I take care of the financial bookkeeping & records as well as provide administrative support for operational activities.</p>
+                                </div>
+                                <div class="back">
+                                    <div class="full-photo" style="background-image: url('website/assets/gallery/kk-2.jpg');">
+                                        <div class="descriptionWrap">
+                                            <h4>About Me</h4>
+                                            <p>Responsible and confident with years of experience in data capturing, billing, reconciliation, tax filing as well as other remittances. Outgoing and have good communication skills with customers and colleagues.</p>
+
+                                            <h4>Hobbies</h4>
+                                            <p class="mb-0">I love driving and Networking.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="profile-card wow bounceInRight" style="background:white;">
+                                <div class="front">
+                                    <div class="picture" style="background-image: url('website/assets/gallery/pj-2.jpg');"></div>
+                                    <h2 class="title">Precious</h2>
+                                    <p class="position">Design</p>
+                                    <p class="sub-title">I am responsible for projects ideation, design, prototype and implementation of innovative technical solutions.</p>
+                                </div>
+                                <div class="back">
+                                    <div class="full-photo" style="background-image: url('website/assets/gallery/pj.jpg');">
+                                        <div class="descriptionWrap">
+                                            <h4>About Me</h4>
+                                            <p>I am a creative and ambitious Designer with a knack for outside the box thinking, innovative ideas and designs that have positive impact in people’s lives and businesses.</p>
+
+                                            <h4>Hobbies</h4>
+                                            <p class="mb-0">Singing, Knitting, DIY Projects, Sleeping & Long beach walks.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="profile-card wow bounceInRight" style="background:white;">
+                                <div class="front">
+                                    <div class="picture" style="background-image: url('website/assets/gallery/fs.jpg');"></div>
+                                    <h2 class="title">Fisayo</h2>
+                                    <p class="position">Outsourcing</p>
+                                    <p class="sub-title">I coordinate subcontracted projects and manage contract and external resource personnels.</p>
+                                </div>
+                                <div class="back">
+                                    <div class="full-photo" style="background-image: url('website/assets/gallery/fs-2.jpg');">
+                                        <div class="descriptionWrap">
+                                            <h4>About Me</h4>
+                                            <p>A multi-skilled professional with good all-round interpersonal skills. Profitient in dealing with all the recruitment and resourcing needs of stakeholders, while demonstrating utmost discretion and integrity.
+                                            </p>
+
+                                            <h4>Hobbies</h4>
+                                            <p class="mb-0">Cooking, Outdoor Activities, Playing DressUp and Networking.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="profile-card wow bounceInLeft" style="background:white;">
+                                <div class="front">
+                                    <div class="picture" style="background-image: url('website/assets/gallery/no.jpg');"></div>
+                                    <h2 class="title">Nicholas</h2>
+                                    <p class="position">Quality</p>
+                                    <p class="sub-title">I ensure products & services meet established standards of quality including reliability, usability and performance.</p>
+                                </div>
+                                <div class="back">
+                                    <div class="full-photo" style="background-image: url('website/assets/gallery/no-2.jpg');">
+                                        <div class="descriptionWrap">
+                                            <h4>About Me</h4>
+                                            <p>I am a professional software tester with years of experience working in quality assurance and general software development. My forte is achieving excellence in product analysis & evaluation.</p>
+
+                                            <h4>Hobbies</h4>
+                                            <p class="mb-0">Swimming, Listening to music, Movies and Reading.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="profile-card wow bounceInLeft" style="background:white;">
+                                <div class="front">
+                                    <div class="picture" style="background-image: url('website/assets/gallery/se.jpg');"></div>
+                                    <h2 class="title">Samuel</h2>
+                                    <p class="position">Products</p>
+                                    <p class="sub-title">I am behind product specifications definitions , design, development and deployment of fully-functional products.</p>
+                                </div>
+                                <div class="back">
+                                    <div class="full-photo" style="background-image: url('website/assets/gallery/se-2.jpg');">
+                                        <div class="descriptionWrap">
+                                            <h4>About Me</h4>
+                                            <p>A product designer with a passion for user satisfaction, excited about people and development with a strong spirit of a team player.</p>
+
+                                            <h4>Hobbies</h4>
+                                            <p class="mb-0">Swimming and car racing.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="profile-card wow bounceInDown" style="background:white;">
+                                <div class="front">
+                                    <div class="picture" style="background-image: url('website/assets/gallery/ar.jpg');"></div>
+                                    <h2 class="title">Ola</h2>
+                                    <p class="position">Admin</p>
+                                    <p class="sub-title">I coordinate office activities and operations to secure efficiency and compliance to company policies.</p>
+                                </div>
+                                <div class="back">
+                                    <div class="full-photo" style="background-image: url('website/assets/gallery/ar-2.jpg');">
+                                        <div class="descriptionWrap">
+                                            <h4>About Me</h4>
+                                            <p>I am a multifaceted Administrative Assistant with an extensive background in a variety of office administration duties. Well-organized and able to multitask while maintaining a high level of professionalism and attention to
+                                                detail.</p>
+
+                                            <h4>Hobbies</h4>
+                                            <p class="mb-0">I love Football & Swimming.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="profile-card wow bounceInLeft" style="background:white;">
+                                <div class="front">
+                                    <div class="picture" style="background-image: url('website/assets/gallery/fe.jpg');"></div>
+                                    <h2 class="title">Feyi</h2>
+                                    <p class="position">Legal</p>
+                                    <p class="sub-title">
+                                        I provide advisory opinions, interpretations & counsel on legal matters. prepare, review & negotiate legal documentations, amongst others.</p>
+                                </div>
+                                <div class="back">
+                                    <div class="full-photo" style="background-image: url('website/assets/gallery/fe-2.jpg');">
+                                        <div class="descriptionWrap">
+                                            <h4>About Me</h4>
+                                            <p>I am a versatile Lawyer with 12 (twelve) years cognate experience, acquired from general law practice, corporate and commercial matters, across law firms, branding and lately, technology companies.</p>
+
+                                            <h4>Hobbies</h4>
+                                            <p class="mb-0">I love web-surfing and reading.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="profile-card wow bounceInRight" style="background:white;">
+                                <div class="front">
+                                    <div class="picture" style="background-image: url('website/assets/gallery/female-2.webp');"></div>
+                                    <h2 class="title">This could be you!</h2>
+                                    <p class="position">Join Us</p>
+                                    <p class="sub-title">We look forward to getting to know and eventually meet you. <br> Feel free to tell us about you.</p>
+                                </div>
+                                <div class="back">
+                                    <div class="full-photo" style="background-image: url('website/assets/gallery/female-2.jpg');">
+                                        <div class="descriptionWrap">
+                                            <!-- <h4>Recent Vacancies</h4> -->
+                                            <p class="sub-title mb-2">
+                                                We are always looking for brilliant minds and opportunities are always lurking.<br><br>
+                                                Check our careers page for current vacancies, or go ahead and tell us about you.
+                                            </p>
+
+                                            <a class="link--arrowed mt-5" href="careerForm@career=49">
+                          <span>
+                            <img class="wow tada mr-2" data-wow-iteration="infinite" data-wow-duration="1s" src="website/assets/icons/arrowRightGreen.svg" alt="">
+                          </span> Tell us about you
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+        <!-- reachout -->
+        <section class="contentBlock1 text-center wow fadeIn" data-wow-delay="0.1s" id="testimonials">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 mx-auto cta-block">
+                        <h2>Do you have a dream?</h2>
+                        <p>Allow us bring your dreams to life. We are ready to listen to your need and proffer solutions in different areas of technology and business</p>
+                        <div class="mt-5">
+                            <a class="link link--arrowed" href="contact">
+                                <img class="wow pulse mr-2" data-wow-iteration="infinite" data-wow-duration="1s" src="website/assets/icons/arrowRightGreen.svg" alt="">
+                                Get In Touch</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <div class="pageFooterAreaWrap position-relative text-center text-sm-left" data-parallax="scroll" data-image-src="images/footer-image.png">
+        <div class="position-relative pageFooterWrapHolder">
+            <div class="container">
+                <footer id="pageFooter" class="position-relative">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-12">
+                            <div class="logo">
+                                <a href="index.html">
+                                    <img src="website/assets/images/logo.png" alt="INITS Limited">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-9 col-md-12">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>OFFICIAL HOURS</h3>
+                                        <ul class="list-unstyled">
+                                            <li>09:00am | 05:00pm</li>
+                                            <li>Monday to Friday</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>Contact</h3>
+                                        <ul class="list-unstyled">
+                                            <li><a href="mailto:info@initsng.com">info@initsng.com</a></li>
+                                            <li><a onclick="ga('send', 'event', { eventCategory: 'Contact', eventAction: 'Call', eventLabel: 'Mobile Button'});" href="tel:+234 708 067 2012">+234 708 067 2012</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>Address</h3>
+                                        <ul class="list-unstyled">
+                                            <li>
+                                                <p>16 Majaro Street,
+                                                    <br> Onike - Yaba,
+                                                    <br> Lagos, Nigeria</p>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="link-item mx-auto">
+                                        <h3>Quick Links</h3>
+                            
+                                        <ul class="list-unstyled">
+                                            <li><a href="faq">FAQ</a></li>
+                                            <li><a href="terms-and-conditions">Terms & Conditions</a></li>
+                                            <li><a href="privacy-policy">Privacy Policy</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </footer>
+            </div>
+            <hr class="separator">
+            <div class="container">
+                <div class="copyrightWrap">
+                    <p>Copyright &copy;2022 INITS, All Rights Reserved.</p>
+                </div>
+                <!-- compliance icon added -->
+                <div style="position:fixed;bottom:5px;right:0;padding:5px 60px 5px 15px; background:rgba(246, 246, 240, 0)">
+                    <img style="max-height:50px;"src="website/assets/images/NDPRlogo.png" alt="NDPR Audit Compliant 2022">
+                </div>
+                <!-- compliance icon end -->
+            </div>
+        </div>
+    </div>
+    <!-- pageFooterAreaWrap -->
+    <div class="modal fade" id="pwdChanged" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog mini" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title text-left">Update Password</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <form class="pwdChange" id="pwdChange" action="https://initsng.com/applicant/change-password" method="post">
+                    <input type="hidden" name="_token" value="Suq7IjhFOr0aNFhj3ZCeInsbJyUr7PAZj7XqsmbJ">                    <div class="modal-body">
+                                                                                                                                <div class="row">
+                                <div class="col-md-12">
+                                    <span class="has-float-label">
+                                      <input type="password" id="cPWD" name="old_password" class="form-control" placeholder="&nbsp;" required />
+                                      <label for="cPWD">Current Password</label>
+                                    </span>
+                                    <small style="position: absolute; bottom: 10px; font-family: 'Roboto', sans-serif; font-size: 10px; font-weight: 300" id="oPASSErr" class="text-danger"></small>
+
+                                </div>
+                                <div class="col-md-12">
+                                    <span class="has-float-label">
+                                      <input type="password" id="nPWD" minlength="8" name="new_password" class="form-control" placeholder="&nbsp;" required />
+                                      <label for="nPWD">New Password</label>
+                                    </span>
+                                    <small style="position: absolute; bottom: 10px; font-family: 'Roboto', sans-serif; font-size: 10px; font-weight: 300" class="text-danger" id="nPASSErr"></small>
+
+                                </div>
+                                <div class="col-md-12">
+                                    <span class="has-float-label">
+                                      <input type="password" id="cnPWD" minlength="8" name="new_password_confirmation" class="form-control" placeholder="&nbsp;" required />
+                                      <label for="cnPWD">Confirm New Password</label>
+                                    </span>
+                                    <small style="position: absolute; bottom: 10px; font-family: 'Roboto', sans-serif; font-size: 10px; font-weight: 300" class="text-danger" id="cPASSErr"></small>
+
+                                </div>
+                            </div>
+
+                    </div>
+                    <div class="modal-footer p-auto">
+                        <button type="button" id="setNewPassBtn" class="btn-outline">Save Changes</button>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+
+    
+</div>
+<span id="back-top" class="text-center rounded-circle fas fa-angle-up"></span>
+<div id="loader" class="loader-holder">
+    <div class="block">
+        <div class="dot white"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+    </div>
+</div>
+</div>
+<!-- include jQuery library -->
+<script src="website/js/jquery.min.js"></script>
+<script src="website/js/popper.min.js"></script>
+
+<script src="website/js/jquery-3.3.1.min.js"></script>
+<!-- include Plugins JavaScript -->
+<script src="website/js/plugins.js"></script>
+<!-- include custom JavaScript -->
+<script src="website/js/jquery.main.js"></script>
+<script src="website/js/wow.min.js"></script>
+<script src="website/js/main.js"></script>
+<script src="website/js/datatables.min.js"></script>
+
+
+<script>
+    var old_pass_checker = false;
+    $('#setNewPassBtn').click(function(){
+        var old_pass = $('#cPWD').val();
+        var new_pass = $('#nPWD').val();
+        var new_pass_conf = $('#cnPWD').val();
+        old_pass_checker = true;
+        if(old_pass.length < 3) {
+            $('#oPASSErr').html('Please provide your current password.');
+            return old_pass_checker = false;
+        }
+        confirmOldPassword(old_pass);
+
+        $('#nPASSErr').html('');
+        $('#cPASSErr').html('');
+
+        if(new_pass.length < 8) {
+            $('#nPASSErr').html('Your new password must have at least 8 character.');
+            old_pass_checker = false;
+        }else if(new_pass !== new_pass_conf) {
+            $('#cPASSErr').html('The password confirmation does not match.');
+            old_pass_checker = false;
+
+        }
+        if(old_pass_checker == true){
+            return $('#pwdChange').submit();
+        }
+    });
+
+    function confirmOldPassword(password)
+    {
+        $.ajax({
+            url: "https://initsng.com/applicant/password-confirmation",
+            method: "POST",
+            dataType: 'json',
+            data: {password: password, _token: "Suq7IjhFOr0aNFhj3ZCeInsbJyUr7PAZj7XqsmbJ"}
+        }).done(function (result) {
+            let data = result.status;
+            console.log(data);
+            old_pass_checker = true;
+            $('#oPASSErr').html('');
+            if(data === false){
+                $('#oPASSErr').html('['+ password +'] does not match your current password.');
+                old_pass_checker = false;
+
+
+            }
+            return true;
+        }).fail(function (err) {
+            console.error(err);
+            return false;
+        });
+    }
+</script>
+<script>
+
+
+    $(document).ready(function() {
+
+
+
+        function offSetManager() {
+
+            var yOffset = 0;
+            var currYOffSet = window.pageYOffset;
+
+            if (yOffset < currYOffSet) {
+                myNavBar.add();
+            } else if (currYOffSet == yOffset) {
+                myNavBar.remove();
+            }
+        }
+        window.onscroll = function(e) {
+            offSetManager();
+        }
+        offSetManager();
+    });
+</script>
+
+
+<script>
+    $('#slick-slider').slick({
+        draggable: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        touchThreshold: 1000,
+        dots: false,
+        infinite: true,
+        arrows: false,
+        speed: 300,
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: true
+            }
+        },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+        ]
+    });
+    // Custom carousel nav
+    $('.carousel-prev').click(function() {
+        $(this).parent().find('#slick-slider').slick('slickPrev');
+    });
+
+    $('.carousel-next').click(function(e) {
+        e.preventDefault();
+        $(this).parent().find('#slick-slider').slick('slickNext');
+    });
+</script>
+<script>
+    $('#slick-slider-2').slick({
+        draggable: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        touchThreshold: 1000,
+        dots: false,
+        infinite: true,
+        arrows: false,
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        responsive: [{
+            breakpoint: 1024,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3,
+                infinite: true,
+                dots: false
+            }
+        },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+        ]
+    });
+    // Custom carousel nav
+    $('.carousel-prev').click(function() {
+        $(this).parent().find('#slick-slider-2').slick('slickPrev');
+    });
+
+    $('.carousel-next').click(function(e) {
+        e.preventDefault();
+        $(this).parent().find('#slick-slider-2').slick('slickNext');
+    });
+    function returnBack(url)
+    {
+        window.location = url;
+    }
+</script>
+
+</body>
+
+
+
+
+</html>

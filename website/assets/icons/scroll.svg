@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="299px" viewBox="0 0 27 299" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 19</title>
+    <defs>
+        <linearGradient x1="50.0007938%" y1="119.117446%" x2="49.9990085%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#025197" offset="0%"></stop>
+            <stop stop-color="#4BAF33" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="themed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home" transform="translate(-1265.000000, -674.000000)">
+            <g id="Group-19" transform="translate(1265.500000, 674.500000)">
+                <text id="scroll" transform="translate(13.000000, 35.500000) rotate(90.000000) translate(-13.000000, -35.500000) " font-family="Heebo-Bold, Heebo" font-size="14" font-weight="bold" line-spacing="25" letter-spacing="3" fill="#E7F2FA">
+                    <tspan x="-22" y="38">SCROLL</tspan>
+                </text>
+                <path id="Line-2" d="M13,89 L13.0010101,283.071033 C16.3928118,283.556698 19,286.473878 19,290 C19,293.865993 15.8659932,297 12,297 C8.13400675,297 5,293.865993 5,290 C5,286.473531 7.60770164,283.556123 10.9999918,283.07089 L11,89 L13,89 Z" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
